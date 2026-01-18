@@ -302,6 +302,11 @@
               "exampleSentence": "He majored in anthropology to study ancient cultures.",
               "tags": [
                 "science"
+              ],
+              "etymology": "Greek anthropos (mankind) + logos (study)",
+              "root_words": [
+                "anthropos",
+                "logos"
               ]
             },
             {
@@ -310,6 +315,11 @@
               "exampleSentence": "Her philanthropy supported libraries across the country.",
               "tags": [
                 "virtue"
+              ],
+              "etymology": "Greek philein (to love) + anthropos (mankind)",
+              "root_words": [
+                "philein",
+                "anthropos"
               ]
             },
             {
