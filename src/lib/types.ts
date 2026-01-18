@@ -110,6 +110,8 @@ export interface DbUserProfile {
     xp_total: number;
     level: number;
     created_at: string;
+    streak_current?: number;
+    streak_longest?: number;
 }
 
 export interface DbUserSessionProgress {
@@ -168,6 +170,7 @@ export interface UserStats {
     fullName?: string;
     avatarUrl?: string;
     totalWordsLearned?: number;
+    currentStreak?: number;
 }
 
 // ============================================

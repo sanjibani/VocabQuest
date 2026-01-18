@@ -141,6 +141,7 @@ export async function getUserStats(): Promise<UserStats | null> {
         completedSessions: sessionsCount ?? 0,
         fullName: full_name,
         avatarUrl: avatar_url,
-        totalWordsLearned: totalWordsCount ?? 0
+        totalWordsLearned: totalWordsCount ?? 0,
+        currentStreak: profile?.streak_current ?? 0
     };
 }
