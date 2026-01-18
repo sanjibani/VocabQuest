@@ -1,0 +1,369 @@
+{
+    "chapterNumber": 3,
+    "title": "How to Talk About Various Practitioners",
+    "sessions": [
+        {
+            "sessionNumber": 7,
+            "title": " The Practitioners",
+            "words": [
+                {
+                    "term": "psychologist",
+                    "definition": "Studies the behavior of the human mind",
+                    "pronunciation": "sī-KOL′-Ə-jist",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek psyche (soul/mind) + logos (science/study)",
+                    "root_words": [
+                        "psyche",
+                        "logos"
+                    ],
+                    "exampleSentence": "The psychologist helped him understand his behavior patterns."
+                },
+                {
+                    "term": "psychoanalyst",
+                    "definition": "Probes the unconscious mind to cure mental disorders",
+                    "pronunciation": "sī′-kō-AN′-Ə-list",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek psyche (soul/mind) + ana (up) + luein (to loosen/release)",
+                    "root_words": [
+                        "psyche",
+                        "ana",
+                        "luein"
+                    ],
+                    "exampleSentence": "She sees a psychoanalyst twice a week for therapy."
+                },
+                {
+                    "term": "orthodontist",
+                    "definition": "Straightens teeth",
+                    "pronunciation": "or′-thƏ-DON′-tist",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek orthos (straight) + odons (tooth)",
+                    "root_words": [
+                        "orthos",
+                        "odons"
+                    ],
+                    "exampleSentence": "The orthodontist fitted her with braces."
+                },
+                {
+                    "term": "optometrist",
+                    "definition": "Measures vision and prescribes glasses",
+                    "pronunciation": "op-TOM′-Ə-trist",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek optikos (sight) + metron (measurement)",
+                    "root_words": [
+                        "optikos",
+                        "metron"
+                    ],
+                    "exampleSentence": "The optometrist checked my eyes for a new prescription."
+                },
+                {
+                    "term": "optician",
+                    "definition": "Grinds lenses and sells glasses",
+                    "pronunciation": "op-TISH′-Ən",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek optikos (sight)",
+                    "root_words": [
+                        "optikos"
+                    ],
+                    "exampleSentence": "The optician adjusted pages of my glasses."
+                },
+                {
+                    "term": "osteopath",
+                    "definition": "Treats ailments by manipulating bones and muscles",
+                    "pronunciation": "OS′-tee-Ə-path",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek osteon (bone) + pathos (suffering/disease)",
+                    "root_words": [
+                        "osteon",
+                        "pathos"
+                    ],
+                    "exampleSentence": "The osteopath relieved his back pain through manipulation."
+                },
+                {
+                    "term": "chiropractor",
+                    "definition": "Manipulates the spine to treat ailments",
+                    "pronunciation": "KĪ′-rƏ-prak′-tƏr",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek cheir (hand) + praktikos (skilled/practical)",
+                    "root_words": [
+                        "cheir",
+                        "praktikos"
+                    ],
+                    "exampleSentence": "He went to a chiropractor for his stiff neck."
+                },
+                {
+                    "term": "podiatrist",
+                    "definition": "Treats minor foot ailments",
+                    "pronunciation": "pƏ-DĪ′-Ə-trist",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek pous/podos (foot) + iatreia (healing)",
+                    "root_words": [
+                        "podos",
+                        "iatreia"
+                    ],
+                    "exampleSentence": "The podiatrist treated her ingrown toenail."
+                },
+                {
+                    "term": "graphologist",
+                    "definition": "Analyzes handwriting",
+                    "pronunciation": "gra-FOL′-Ə-jist",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek graphein (to write) + logos (study)",
+                    "root_words": [
+                        "graphein",
+                        "logos"
+                    ],
+                    "exampleSentence": "A graphologist claims to determine character from signatures."
+                },
+                {
+                    "term": "gerontologist",
+                    "definition": "Social scientist who deals with the problems of aging",
+                    "pronunciation": "jer′-Ən-TOL′-Ə-jist",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek geras (old age) + logos (study)",
+                    "root_words": [
+                        "geras",
+                        "logos"
+                    ],
+                    "exampleSentence": "As our population ages, the work of the gerontologist becomes more vital."
+                }
+            ],
+            "exercises": [
+                {
+                    "type": "mcq_definition",
+                    "items": [
+                        {
+                            "wordTerm": "orthodontist",
+                            "question": "Who specializes in straightening teeth?",
+                            "correctAnswer": "orthodontist",
+                            "choices": [
+                                "orthodontist",
+                                "optometrist",
+                                "osteopath",
+                                "pediatrician"
+                            ]
+                        },
+                        {
+                            "wordTerm": "podiatrist",
+                            "question": "Who treats foot ailments?",
+                            "correctAnswer": "podiatrist",
+                            "choices": [
+                                "podiatrist",
+                                "chiropractor",
+                                "graphologist",
+                                "optician"
+                            ]
+                        },
+                        {
+                            "wordTerm": "graphologist",
+                            "question": "Who analyzes handwriting?",
+                            "correctAnswer": "graphologist",
+                            "choices": [
+                                "graphologist",
+                                "gerontologist",
+                                "psychologist",
+                                "podiatrist"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sessionNumber": 8,
+            "title": "Origins of Practitioners (Psyche, Soma)",
+            "words": [
+                {
+                    "term": "psyche",
+                    "definition": "The mind, soul, or spirit",
+                    "pronunciation": "SĪ′-kee",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek psyche (breath, spirit, soul)",
+                    "root_words": [
+                        "psyche"
+                    ],
+                    "exampleSentence": "The trauma deeply affected his psyche."
+                },
+                {
+                    "term": "psychic",
+                    "definition": "Pertaining to the mind; extrasensory",
+                    "pronunciation": "SĪ′-kik",
+                    "part_of_speech": "adjective",
+                    "etymology": "Greek psyche",
+                    "root_words": [
+                        "psyche"
+                    ],
+                    "exampleSentence": "He claimed to have psychic powers."
+                },
+                {
+                    "term": "psychopathic",
+                    "definition": "Suffering from a severe mental disorder",
+                    "pronunciation": "sī′-kƏ-PATH′-ik",
+                    "part_of_speech": "adjective",
+                    "etymology": "Greek psyche + pathos (suffering)",
+                    "root_words": [
+                        "psyche",
+                        "pathos"
+                    ],
+                    "exampleSentence": "His psychopathic behavior was dangerous to society."
+                },
+                {
+                    "term": "psychosomatic",
+                    "definition": "Caused by the interaction of mind and body",
+                    "pronunciation": "sī′-kō-sō-MAT′-ik",
+                    "part_of_speech": "adjective",
+                    "etymology": "Greek psyche + soma (body)",
+                    "root_words": [
+                        "psyche",
+                        "soma"
+                    ],
+                    "exampleSentence": "Her stomach pain was purely psychosomatic."
+                },
+                {
+                    "term": "psychoanalysis",
+                    "definition": "A method of treating mental disorders by exploring the unconscious",
+                    "pronunciation": "sī′-kō-Ə-NAL′-Ə-sis",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek psyche + analysis",
+                    "root_words": [
+                        "psyche"
+                    ],
+                    "exampleSentence": "Freud is the father of psychoanalysis."
+                }
+            ],
+            "exercises": [
+                {
+                    "type": "mcq_definition",
+                    "items": [
+                        {
+                            "wordTerm": "psychosomatic",
+                            "question": "Which term describes physical symptoms caused by the mind?",
+                            "correctAnswer": "psychosomatic",
+                            "choices": [
+                                "psychosomatic",
+                                "psychopathic",
+                                "psychic",
+                                "osteopathic"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sessionNumber": 9,
+            "title": "Origins (Dental, Optical)",
+            "words": [
+                {
+                    "term": "orthodontics",
+                    "definition": "The practice of straightening teeth",
+                    "pronunciation": "or′-thƏ-DON′-tiks",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek orthos (straight) + odons (tooth)",
+                    "root_words": [
+                        "orthos",
+                        "odons"
+                    ],
+                    "exampleSentence": "Orthodontics has advanced significantly."
+                },
+                {
+                    "term": "optometry",
+                    "definition": "The profession of examining eyes",
+                    "pronunciation": "op-TOM′-Ə-tree",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek optikos (sight) + metron (measure)",
+                    "root_words": [
+                        "optikos",
+                        "metron"
+                    ],
+                    "exampleSentence": "She decided to study optometry."
+                }
+            ],
+            "exercises": [
+                {
+                    "type": "mcq_definition",
+                    "items": [
+                        {
+                            "wordTerm": "orthodontics",
+                            "question": "Which field deals with straightening teeth?",
+                            "correctAnswer": "orthodontics",
+                            "choices": [
+                                "orthodontics",
+                                "optometry",
+                                "psychology",
+                                "osteopathy"
+                            ]
+                        },
+                        {
+                            "wordTerm": "optometry",
+                            "question": "Which profession involves measuring vision?",
+                            "correctAnswer": "optometry",
+                            "choices": [
+                                "optometry",
+                                "optician",
+                                "chiropody",
+                                "gerontology"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "sessionNumber": 10,
+            "title": "Origins (Skeleton, Hands, Feet)",
+            "words": [
+                {
+                    "term": "osteopathy",
+                    "definition": "Medical practice based on skeletal and muscular manipulation",
+                    "pronunciation": "os′-tee-OP′-Ə-thee",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek osteon (bone) + pathos (suffering)",
+                    "root_words": [
+                        "osteon",
+                        "pathos"
+                    ]
+                },
+                {
+                    "term": "chiropody",
+                    "definition": "Treatment of foot ailments (synonym: podiatry)",
+                    "pronunciation": "kī-ROP′-Ə-dee",
+                    "part_of_speech": "noun",
+                    "etymology": "Greek cheir (hand) + pous (foot)",
+                    "root_words": [
+                        "cheir",
+                        "pous"
+                    ]
+                }
+            ],
+            "exercises": [
+                {
+                    "type": "mcq_definition",
+                    "items": [
+                        {
+                            "wordTerm": "osteopathy",
+                            "question": "Which practice involves skeletal manipulation?",
+                            "correctAnswer": "osteopathy",
+                            "choices": [
+                                "osteopathy",
+                                "chiropody",
+                                "orthodontics",
+                                "psychiatry"
+                            ]
+                        },
+                        {
+                            "wordTerm": "chiropody",
+                            "question": "What is the study/treatment of foot ailments?",
+                            "correctAnswer": "chiropody",
+                            "choices": [
+                                "chiropody",
+                                "osteopathy",
+                                "optometry",
+                                "graphology"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

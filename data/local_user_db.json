@@ -1,0 +1,43 @@
+{
+  "userId": "local-user",
+  "xp": 298,
+  "level": 1,
+  "completedSessions": [
+    "session-1",
+    "session-4",
+    "session-6"
+  ],
+  "wordStates": {
+    "word-4-2": {
+      "status": "review",
+      "nextReview": "2026-01-16T18:30:00.000Z",
+      "interval": 1,
+      "easeFactor": 2.36
+    },
+    "word-4-6": {
+      "status": "review",
+      "nextReview": "2026-01-16T18:30:00.000Z",
+      "interval": 1,
+      "easeFactor": 2.6
+    },
+    "word-4-3": {
+      "status": "review",
+      "nextReview": "2026-01-16T18:30:00.000Z",
+      "interval": 1,
+      "easeFactor": 2.36
+    },
+    "word-6-0": {
+      "status": "review",
+      "nextReview": "2026-01-17T09:55:36.027Z",
+      "interval": 1,
+      "easeFactor": 2.5
+    },
+    "word-6-3": {
+      "status": "review",
+      "nextReview": "2026-01-16T09:55:53.249Z",
+      "interval": 0,
+      "easeFactor": 2.5
+    }
+  },
+  "lastUpdated": "2026-01-16T09:55:53.701Z"
+}

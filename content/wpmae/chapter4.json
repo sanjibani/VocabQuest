@@ -1,0 +1,107 @@
+{
+    "chapterNumber": 4,
+    "title": "How to Talk About Science and Scientists",
+    "sessions": [
+        {
+            "sessionNumber": 11,
+            "title": "Science and Scientists I",
+            "words": [
+                {
+                    "term": "entomologist",
+                    "definition": "insects",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "philologist",
+                    "definition": "language",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "sociologist",
+                    "definition": "social conditions",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "anthropologist",
+                    "definition": "history of development of mankind",
+                    "part_of_speech": "noun"
+                }
+            ],
+            "exercises": []
+        },
+        {
+            "sessionNumber": 12,
+            "title": "Science and Scientists II",
+            "words": [
+                {
+                    "term": "zoological",
+                    "definition": "pertaining to the science of animals (adj.)",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "botanical",
+                    "definition": "pertaining to the science of plants (adj.)",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "autopsy",
+                    "definition": "dissection of a corpse to determine the cause of death",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "autobiography",
+                    "definition": "story of one’s life, self-written",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "biopsy",
+                    "definition": "microscopic examination of living tissue",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "autonomy",
+                    "definition": "self-government",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "metronome",
+                    "definition": "time measurer for music",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "astronaut",
+                    "definition": "voyager among the stars",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "cosmonaut",
+                    "definition": "traveler through the universe",
+                    "part_of_speech": "noun"
+                }
+            ],
+            "exercises": []
+        },
+        {
+            "sessionNumber": 13,
+            "title": "Science and Scientists III",
+            "words": [
+                {
+                    "term": "sociological",
+                    "definition": "pertaining to the study of social customs (adj.)",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "semantic",
+                    "definition": "pertaining to the psychological effects of words (adj.)",
+                    "part_of_speech": "noun"
+                },
+                {
+                    "term": "bibliophile",
+                    "definition": "lover and collector of books",
+                    "part_of_speech": "noun"
+                }
+            ],
+            "exercises": []
+        }
+    ]
+}

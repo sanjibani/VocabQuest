@@ -1,0 +1,694 @@
+{
+  "bookId": "wpmae",
+  "title": "Word Power Made Easy",
+  "chapters": [
+    {
+      "chapterNumber": 1,
+      "title": "How to Talk About Personality Types",
+      "sessions": [
+        {
+          "sessionNumber": 1,
+          "title": "Personality Types (Basic Terms)",
+          "words": [
+            {
+              "term": "egoist",
+              "definition": "Me first; believes in self-advancement above all else",
+              "exampleSentence": "The egoist only thinks about what benefits himself.",
+              "tags": [
+                "personality",
+                "ego"
+              ]
+            },
+            {
+              "term": "egotist",
+              "definition": "The height of conceit; constantly talks about own accomplishments",
+              "exampleSentence": "The egotist couldn't stop talking about his achievements.",
+              "imageUrl": "/vocab/egotist.webp",
+              "tags": [
+                "personality",
+                "ego"
+              ]
+            },
+            {
+              "term": "altruist",
+              "definition": "Let me help you; interested in the welfare of others",
+              "exampleSentence": "The altruist donated all her savings to charity.",
+              "tags": [
+                "personality",
+                "virtue"
+              ]
+            },
+            {
+              "term": "introvert",
+              "definition": "Leave me alone; turns thoughts inward",
+              "exampleSentence": "As an introvert, she preferred reading alone to attending parties.",
+              "tags": [
+                "personality",
+                "social"
+              ]
+            },
+            {
+              "term": "extrovert",
+              "definition": "Let's do it together; turns thoughts outward",
+              "exampleSentence": "The extrovert was the life of every party.",
+              "tags": [
+                "personality",
+                "social"
+              ]
+            },
+            {
+              "term": "ambivert",
+              "definition": "Neither extreme; both introverted and extroverted tendencies",
+              "exampleSentence": "Most people are ambiverts, comfortable in both social and solitary situations.",
+              "tags": [
+                "personality",
+                "social"
+              ]
+            },
+            {
+              "term": "misanthrope",
+              "definition": "People are no damn good; hates mankind",
+              "exampleSentence": "The misanthrope lived in a cabin miles away from the nearest town.",
+              "tags": [
+                "personality",
+                "negative"
+              ]
+            },
+            {
+              "term": "misogynist",
+              "definition": "Women are no damn good; hates women",
+              "exampleSentence": "His misogynist views were offensive to everyone in the room.",
+              "tags": [
+                "personality",
+                "negative"
+              ]
+            },
+            {
+              "term": "misogamist",
+              "definition": "Marriage is an institution—and who wants to live in an institution?; hates marriage",
+              "exampleSentence": "As a confirmed misogamist, he refused to ever settle down.",
+              "tags": [
+                "personality",
+                "negative"
+              ]
+            },
+            {
+              "term": "ascetic",
+              "definition": "That the flesh is heir to; practices severe self-discipline",
+              "exampleSentence": "The ascetic lived on rice and water and slept on the floor.",
+              "tags": [
+                "lifestyle",
+                "discipline"
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "type": "mcq_definition",
+              "items": [
+                {
+                  "wordTerm": "egoist",
+                  "question": "Who lives by the motto 'Me First'?",
+                  "correctAnswer": "egoist",
+                  "choices": [
+                    "egoist",
+                    "altruist",
+                    "misogamist",
+                    "ascetic"
+                  ]
+                },
+                {
+                  "wordTerm": "altruist",
+                  "question": "Which word describes someone who is primarily interested in the welfare of others?",
+                  "correctAnswer": "altruist",
+                  "choices": [
+                    "egotist",
+                    "altruist",
+                    "introvert",
+                    "egoist"
+                  ]
+                },
+                {
+                  "wordTerm": "misogynist",
+                  "question": "Which word describes a person who hates women?",
+                  "correctAnswer": "misogynist",
+                  "choices": [
+                    "misogynist",
+                    "misanthrope",
+                    "misogamist",
+                    "ascetic"
+                  ]
+                },
+                {
+                  "wordTerm": "ambivert",
+                  "question": "Who turns thoughts both inward and outward?",
+                  "correctAnswer": "ambivert",
+                  "choices": [
+                    "introvert",
+                    "extrovert",
+                    "ambivert",
+                    "egotist"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sessionNumber": 2,
+          "title": "Origins of Personality Words",
+          "words": [
+            {
+              "term": "egocentric",
+              "definition": "Considering oneself the center of the universe; extreme selfishness",
+              "exampleSentence": "His egocentric worldview made it hard for him to empathize with others.",
+              "tags": [
+                "personality",
+                "ego"
+              ]
+            },
+            {
+              "term": "egomaniac",
+              "definition": "Obsessively and morbidly wrapped up in oneself",
+              "exampleSentence": "The dictator was a dangerous egomaniac.",
+              "tags": [
+                "personality",
+                "psychology"
+              ]
+            },
+            {
+              "term": "altruism",
+              "definition": "The philosophy of putting another's welfare above one's own",
+              "exampleSentence": "Her altruism led her to volunteer in the disaster zone.",
+              "tags": [
+                "philosophy",
+                "virtue"
+              ]
+            },
+            {
+              "term": "alternate",
+              "definition": "To take turns; skip one and take the other",
+              "exampleSentence": "We generally alternate who drives to work.",
+              "tags": [
+                "action"
+              ]
+            },
+            {
+              "term": "altercation",
+              "definition": "A heated or angry dispute; a verbal argument",
+              "exampleSentence": "They got into a loud altercation over the parking spot.",
+              "tags": [
+                "conflict"
+              ]
+            },
+            {
+              "term": "alter ego",
+              "definition": "One's other self; a very close friend",
+              "exampleSentence": "Batman is Bruce Wayne's alter ego.",
+              "tags": [
+                "identity"
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "type": "mcq_definition",
+              "items": [
+                {
+                  "wordTerm": "egocentric",
+                  "question": "Which word implies you consider yourself the center of the universe?",
+                  "correctAnswer": "egocentric",
+                  "choices": [
+                    "egocentric",
+                    "altruistic",
+                    "introverted",
+                    "dexterous"
+                  ]
+                },
+                {
+                  "wordTerm": "altercation",
+                  "question": "What is a noisy, heated argument called?",
+                  "correctAnswer": "altercation",
+                  "choices": [
+                    "altercation",
+                    "alternation",
+                    "alter ego",
+                    "altruism"
+                  ]
+                },
+                {
+                  "wordTerm": "alter ego",
+                  "question": "What term refers to your 'other self'?",
+                  "correctAnswer": "alter ego",
+                  "choices": [
+                    "alter ego",
+                    "egomaniac",
+                    "altruist",
+                    "ascetic"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sessionNumber": 3,
+          "title": "More Origins (Dexterous/Sinister)",
+          "words": [
+            {
+              "term": "dexterous",
+              "definition": "Skillful, especially with the hands",
+              "exampleSentence": "The dexterous surgeon performed the delicate operation perfectly.",
+              "tags": [
+                "skill"
+              ]
+            },
+            {
+              "term": "ambidextrous",
+              "definition": "Able to use both hands with equal skill",
+              "exampleSentence": "The ambidextrous pitcher could throw with either arm.",
+              "tags": [
+                "skill"
+              ]
+            },
+            {
+              "term": "sinister",
+              "definition": "Evil, threatening, or ominous (originally 'left-handed')",
+              "exampleSentence": "There was something sinister about the dark, abandoned house.",
+              "tags": [
+                "negative"
+              ]
+            },
+            {
+              "term": "gauche",
+              "definition": "Socially awkward; tactless (literally 'left')",
+              "exampleSentence": "It was gauche of him to ask about her salary.",
+              "tags": [
+                "social",
+                "negative"
+              ]
+            },
+            {
+              "term": "adroit",
+              "definition": "Skillful, clever, or quick-witted (literally 'right')",
+              "exampleSentence": "She was adroit at handling difficult customers.",
+              "tags": [
+                "skill"
+              ]
+            },
+            {
+              "term": "anthropology",
+              "definition": "The study of human development and history",
+              "exampleSentence": "He majored in anthropology to study ancient cultures.",
+              "tags": [
+                "science"
+              ]
+            },
+            {
+              "term": "philanthropy",
+              "definition": "Love of mankind; charitable giving",
+              "exampleSentence": "Her philanthropy supported libraries across the country.",
+              "tags": [
+                "virtue"
+              ]
+            },
+            {
+              "term": "monogamy",
+              "definition": "The practice of having only one spouse at a time",
+              "exampleSentence": "Monogamy is the standard in many cultures.",
+              "tags": [
+                "relationship"
+              ]
+            },
+            {
+              "term": "bigamy",
+              "definition": "The unlawful act of marrying someone while already married",
+              "exampleSentence": "He was arrested for bigamy after his second wife found out about the first.",
+              "tags": [
+                "crime"
+              ]
+            },
+            {
+              "term": "polygamy",
+              "definition": "The practice of having multiple spouses at once",
+              "exampleSentence": "Polygamy is illegal in most Western countries.",
+              "tags": [
+                "relationship"
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "type": "mcq_definition",
+              "items": [
+                {
+                  "wordTerm": "ambidextrous",
+                  "question": "Which word describes being able to use both hands equally well?",
+                  "correctAnswer": "ambidextrous",
+                  "choices": [
+                    "ambidextrous",
+                    "dexterous",
+                    "adroit",
+                    "sinister"
+                  ]
+                },
+                {
+                  "wordTerm": "gauche",
+                  "question": "Which word means socially awkward or tactless?",
+                  "correctAnswer": "gauche",
+                  "choices": [
+                    "gauche",
+                    "adroit",
+                    "sinister",
+                    "ambidextrous"
+                  ]
+                },
+                {
+                  "wordTerm": "philanthropy",
+                  "question": "What is the love of mankind through charity?",
+                  "correctAnswer": "philanthropy",
+                  "choices": [
+                    "philanthropy",
+                    "anthropology",
+                    "monogamy",
+                    "bigamy"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapterNumber": 2,
+      "title": "How to Talk About Doctors",
+      "sessions": [
+        {
+          "sessionNumber": 4,
+          "title": "Medical Specialists (The Practitioners)",
+          "words": [
+            {
+              "term": "internist",
+              "definition": "Specialist in internal medicine and diagnosis",
+              "exampleSentence": "The internist gave her a complete physical examination.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "gynecologist",
+              "definition": "Specialist in female reproductive health",
+              "exampleSentence": "She scheduled an appointment with her gynecologist.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "obstetrician",
+              "definition": "Specialist who delivers babies",
+              "exampleSentence": "The obstetrician was on call for the delivery.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "pediatrician",
+              "definition": "Specialist in the care of infants and children",
+              "exampleSentence": "The pediatrician checked the baby's weight.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "dermatologist",
+              "definition": "Specialist in skin diseases",
+              "exampleSentence": "The dermatologist treated his acne.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "ophthalmologist",
+              "definition": "Eye surgeon and specialist",
+              "exampleSentence": "The ophthalmologist prescribed new glasses.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "orthopedist",
+              "definition": "Specialist in skeletal system and bones",
+              "exampleSentence": "The orthopedist set the broken leg.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "cardiologist",
+              "definition": "Specialist in heart diseases",
+              "exampleSentence": "The cardiologist monitored his heart rate.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "neurologist",
+              "definition": "Specialist in nervous system and brain",
+              "exampleSentence": "The neurologist performed a reflex test.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            },
+            {
+              "term": "psychiatrist",
+              "definition": "Specialist in mental ailments and emotional disturbances",
+              "exampleSentence": "The psychiatrist helped him manage his depression.",
+              "tags": [
+                "medicine",
+                "doctor"
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "type": "mcq_definition",
+              "items": [
+                {
+                  "wordTerm": "obstetrician",
+                  "question": "Which doctor delivers babies?",
+                  "correctAnswer": "obstetrician",
+                  "choices": [
+                    "obstetrician",
+                    "gynecologist",
+                    "pediatrician",
+                    "internist"
+                  ]
+                },
+                {
+                  "wordTerm": "orthopedist",
+                  "question": "Which doctor treats bone and skeletal issues?",
+                  "correctAnswer": "orthopedist",
+                  "choices": [
+                    "orthopedist",
+                    "ophthalmologist",
+                    "cardiologist",
+                    "neurologist"
+                  ]
+                },
+                {
+                  "wordTerm": "pediatrician",
+                  "question": "Which doctor specializes in children?",
+                  "correctAnswer": "pediatrician",
+                  "choices": [
+                    "pediatrician",
+                    "obstetrician",
+                    "dermatologist",
+                    "internist"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sessionNumber": 5,
+          "title": "Origins of Medical Words 1",
+          "words": [
+            {
+              "term": "pediatrics",
+              "definition": "Medical specialty concerning children",
+              "exampleSentence": "She decided to specialize in pediatrics.",
+              "tags": [
+                "medicine"
+              ]
+            },
+            {
+              "term": "pedagogy",
+              "definition": "The principles and methods of teaching",
+              "exampleSentence": "The professor was an expert in pedagogy.",
+              "tags": [
+                "education"
+              ]
+            },
+            {
+              "term": "demagogue",
+              "definition": "A leader who appeals to people's prejudices and emotions",
+              "exampleSentence": "The demagogue riled up the crowd with angry rhetoric.",
+              "tags": [
+                "politics",
+                "negative"
+              ]
+            },
+            {
+              "term": "dermatology",
+              "definition": "Study of the skin",
+              "exampleSentence": "Dermatology deals with everything from rashes to skin cancer.",
+              "tags": [
+                "medicine"
+              ]
+            },
+            {
+              "term": "taxidermy",
+              "definition": "Stuffing of skins of animals",
+              "exampleSentence": " The museum featured excellent taxidermy.",
+              "tags": [
+                "craft"
+              ]
+            },
+            {
+              "term": "ocular",
+              "definition": "Related to the eye",
+              "exampleSentence": "He suffered from ocular strain after staring at the screen.",
+              "tags": [
+                "medicine"
+              ]
+            },
+            {
+              "term": "monocle",
+              "definition": "A single eyeglass lens",
+              "exampleSentence": " The old gentleman wore a monocle.",
+              "tags": [
+                "fashion"
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "type": "mcq_definition",
+              "items": [
+                {
+                  "wordTerm": "pedagogy",
+                  "question": "What is the art or principle of teaching?",
+                  "correctAnswer": "pedagogy",
+                  "choices": [
+                    "pedagogy",
+                    "pediatrics",
+                    "demagoguery",
+                    "dermatology"
+                  ]
+                },
+                {
+                  "wordTerm": "demagogue",
+                  "question": "Who leads by appealing to prejudice and emotion?",
+                  "correctAnswer": "demagogue",
+                  "choices": [
+                    "demagogue",
+                    "pedant",
+                    "pedagogue",
+                    "diplomat"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sessionNumber": 6,
+          "title": "Origins of Medical Words 2",
+          "words": [
+            {
+              "term": "orthodontia",
+              "definition": "Straightening of teeth",
+              "exampleSentence": "She needed orthodontia to fix her crooked smile.",
+              "tags": [
+                "medicine",
+                "dentistry"
+              ]
+            },
+            {
+              "term": "cardiac",
+              "definition": "Relating to the heart",
+              "exampleSentence": "He suffered a cardiac arrest.",
+              "tags": [
+                "medicine"
+              ]
+            },
+            {
+              "term": "cardiogram",
+              "definition": "Record of heart beats",
+              "exampleSentence": "The cardiogram showed an irregular rhythm.",
+              "tags": [
+                "medicine"
+              ]
+            },
+            {
+              "term": "neurosis",
+              "definition": "Emotional disturbance or disorder",
+              "exampleSentence": "His obsession with cleanliness bordered on neurosis.",
+              "tags": [
+                "psychology"
+              ]
+            },
+            {
+              "term": "neurology",
+              "definition": "Study of the nervous system",
+              "exampleSentence": "Neurology is a complex field requiring years of study.",
+              "tags": [
+                "medicine"
+              ]
+            }
+          ],
+          "exercises": [
+            {
+              "type": "mcq_definition",
+              "items": [
+                {
+                  "wordTerm": "orthodontia",
+                  "question": "What specialty involves straightening teeth?",
+                  "correctAnswer": "orthodontia",
+                  "choices": [
+                    "orthodontia",
+                    "orthopedics",
+                    "pediatrics",
+                    "cardiology"
+                  ]
+                },
+                {
+                  "wordTerm": "neurosis",
+                  "question": "What term describes an emotional disturbance?",
+                  "correctAnswer": "neurosis",
+                  "choices": [
+                    "neurosis",
+                    "psychosis",
+                    "neurology",
+                    "neuritis"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

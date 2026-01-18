@@ -1,0 +1,79 @@
+.badge {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    background: linear-gradient(135deg, rgba(255, 100, 50, 0.2), rgba(255, 150, 50, 0.1));
+    border: 1px solid rgba(255, 100, 50, 0.3);
+    transition: all 0.3s ease;
+}
+
+.badge.active {
+    background: linear-gradient(135deg, rgba(255, 100, 50, 0.3), rgba(255, 150, 50, 0.2));
+    box-shadow: 0 0 20px rgba(255, 100, 50, 0.3);
+}
+
+.badge.inactive {
+    background: rgba(100, 100, 120, 0.2);
+    border-color: rgba(100, 100, 120, 0.3);
+}
+
+.flame {
+    font-size: 1.5rem;
+    animation: flicker 1s ease-in-out infinite alternate;
+}
+
+.badge.inactive .flame {
+    animation: none;
+}
+
+@keyframes flicker {
+    0% {
+        transform: scale(1);
+    }
+
+    100% {
+        transform: scale(1.1);
+    }
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    line-height: 1;
+}
+
+.count {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #ff6b35;
+}
+
+.badge.inactive .count {
+    color: #888;
+}
+
+.label {
+    font-size: 0.7rem;
+    color: rgba(255, 255, 255, 0.7);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.warning {
+    animation: pulse 1s ease-in-out infinite;
+}
+
+@keyframes pulse {
+
+    0%,
+    100% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.5;
+    }
+}
