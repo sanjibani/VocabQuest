@@ -46,7 +46,7 @@ export default function ProfilePage() {
                     xpTotal: userStats?.xpTotal || 0,
                     level: userStats?.level || 1,
                     streak: userStats?.currentStreak || 0,
-                    wordsLearned: 42, // Placeholder or need a new action to count user_word_state
+                    wordsLearned: userStats?.totalWordsLearned || 0,
                     rank: 1, // Placeholder unless we query leaderboard
                     fullName: userStats?.fullName,
                     joinedAt: userStats?.joinedAt
