@@ -11,22 +11,40 @@
                         {
                             "term": "egregious",
                             "definition": "outstandingly vicious; so bad as to be in a class by itself",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin e (out) + grex (herd)",
+                            "root_words": [
+                                "ex",
+                                "grex"
+                            ]
                         },
                         {
                             "term": "congenital",
                             "definition": "starting at birth",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin con (with) + genesis (birth)",
+                            "root_words": [
+                                "con",
+                                "genesis"
+                            ]
                         },
                         {
                             "term": "chronic",
                             "definition": "happening over and over again; continuing for a long time",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek chronos (time)",
+                            "root_words": [
+                                "chronos"
+                            ]
                         },
                         {
                             "term": "notorious",
                             "definition": "weaknesses, immoral or unethical behavior, etc.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin notus (known)",
+                            "root_words": [
+                                "notus"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -38,22 +56,39 @@
                         {
                             "term": "genital",
                             "definition": "sexual; reproductive",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin genesis (birth)",
+                            "root_words": [
+                                "genesis"
+                            ]
                         },
                         {
                             "term": "consummate",
                             "definition": "to complete",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin con (with) + summa (sum)",
+                            "root_words": [
+                                "con",
+                                "summa"
+                            ]
                         },
                         {
                             "term": "notoriety",
                             "definition": "wide and unfavorable reputation",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin notus (known)",
+                            "root_words": [
+                                "notus"
+                            ]
                         },
                         {
                             "term": "gene",
                             "definition": "from parent to offspring",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek genos (race/kind)",
+                            "root_words": [
+                                "genos"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -65,17 +100,32 @@
                         {
                             "term": "chronological",
                             "definition": "in order of time",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek chronos (time) + logos (study)",
+                            "root_words": [
+                                "chronos",
+                                "logos"
+                            ]
                         },
                         {
                             "term": "incongruous",
                             "definition": "out of place",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin in (not) + congruere (to agree)",
+                            "root_words": [
+                                "in",
+                                "congruere"
+                            ]
                         },
                         {
                             "term": "anachronous",
                             "definition": "3. A__________________",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek ana (against) + chronos (time)",
+                            "root_words": [
+                                "ana",
+                                "chronos"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -87,17 +137,32 @@
                         {
                             "term": "gregarious",
                             "definition": "enjoying groups and companionship",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin grex (herd)",
+                            "root_words": [
+                                "grex"
+                            ]
                         },
                         {
                             "term": "nescient",
                             "definition": "ignorant",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ne (not) + scire (to know)",
+                            "root_words": [
+                                "ne",
+                                "scire"
+                            ]
                         },
                         {
                             "term": "unconscionability",
                             "definition": "conscience",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin un (not) + con (with) + scire (to know)",
+                            "root_words": [
+                                "un",
+                                "con",
+                                "scire"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -115,27 +180,50 @@
                         {
                             "term": "placate",
                             "definition": "change hostility into friendliness",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin placare (to soothe)",
+                            "root_words": [
+                                "placare"
+                            ]
                         },
                         {
                             "term": "obviate",
                             "definition": "make unnecessary",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ob (against) + via (way)",
+                            "root_words": [
+                                "ob",
+                                "via"
+                            ]
                         },
                         {
                             "term": "disparage",
                             "definition": "belittle",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin dis (apart) + par (equal)",
+                            "root_words": [
+                                "dis",
+                                "par"
+                            ]
                         },
                         {
                             "term": "condone",
                             "definition": "overlook or forgive a transgression",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin con (with) + donare (to give)",
+                            "root_words": [
+                                "con",
+                                "donare"
+                            ]
                         },
                         {
                             "term": "titillate",
                             "definition": "tickle; delight; stimulate pleasurably",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin titillare (to tickle)",
+                            "root_words": [
+                                "titillare"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -147,22 +235,40 @@
                         {
                             "term": "ambiguous",
                             "definition": "accidentally vague",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ambi (both) + agere (to drive)",
+                            "root_words": [
+                                "ambi",
+                                "agere"
+                            ]
                         },
                         {
                             "term": "equivocal",
                             "definition": "purposely vague",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin aequus (equal) + vox (voice)",
+                            "root_words": [
+                                "aequus",
+                                "vox"
+                            ]
                         },
                         {
                             "term": "parity",
                             "definition": "equality",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin par (equal)",
+                            "root_words": [
+                                "par"
+                            ]
                         },
                         {
                             "term": "double",
                             "definition": "risqué",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin duplus (twofold)",
+                            "root_words": [
+                                "duplus"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -174,42 +280,77 @@
                         {
                             "term": "vocalize",
                             "definition": "to give voice to; to express aloud; to sing",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vocalis (voice)",
+                            "root_words": [
+                                "vocalis"
+                            ]
                         },
                         {
                             "term": "equilibrist",
                             "definition": "tightrope walker",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin aequus (equal) + libra (balance)",
+                            "root_words": [
+                                "aequus",
+                                "libra"
+                            ]
                         },
                         {
                             "term": "nocturnal",
                             "definition": "active or flourishing at night",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin nox (night)",
+                            "root_words": [
+                                "nox"
+                            ]
                         },
                         {
                             "term": "equine",
                             "definition": "descriptive or characteristic of, or like, a horse",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin equus (horse)",
+                            "root_words": [
+                                "equus"
+                            ]
                         },
                         {
                             "term": "vocal",
                             "definition": "referring to the voice; skillful or fluent in expressing by voice",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vocalis (voice)",
+                            "root_words": [
+                                "vocalis"
+                            ]
                         },
                         {
                             "term": "vociferous",
                             "definition": "loud, noisy, clamorous",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vox (voice) + ferre (to bear)",
+                            "root_words": [
+                                "vox",
+                                "ferre"
+                            ]
                         },
                         {
                             "term": "equestrian",
                             "definition": "person on horseback",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin equus (horse)",
+                            "root_words": [
+                                "equus"
+                            ]
                         },
                         {
                             "term": "equanimity",
                             "definition": "calmness or evenness of temper",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin aequus (even) + animus (mind)",
+                            "root_words": [
+                                "aequus",
+                                "animus"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -221,37 +362,68 @@
                         {
                             "term": "maladroit",
                             "definition": "clumsy, awkward",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from French mal (bad) + adroit (skillful)",
+                            "root_words": [
+                                "mal",
+                                "adroit"
+                            ]
                         },
                         {
                             "term": "malevolent",
                             "definition": "bearing ill-will; wishing harm",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin male (ill) + volens (wishing)",
+                            "root_words": [
+                                "male",
+                                "volens"
+                            ]
                         },
                         {
                             "term": "titillation",
                             "definition": "pleasurable stimulation",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin titillatio (tickling)",
+                            "root_words": [
+                                "titillatio"
+                            ]
                         },
                         {
                             "term": "militant",
                             "definition": "a person aggressively fighting for a cause",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin militare (to serve as a soldier)",
+                            "root_words": [
+                                "militare"
+                            ]
                         },
                         {
                             "term": "obviation",
                             "definition": "prevention",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ob (against) + via (way)",
+                            "root_words": [
+                                "ob",
+                                "via"
+                            ]
                         },
                         {
                             "term": "militancy",
                             "definition": "aggressive attitude",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin militare (to serve as a soldier)",
+                            "root_words": [
+                                "militare"
+                            ]
                         },
                         {
                             "term": "malign",
                             "definition": "harmful, hurtful, bad",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin malignus (wicked)",
+                            "root_words": [
+                                "malignus"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -263,22 +435,40 @@
                         {
                             "term": "dictatorial",
                             "definition": "tending to give orders",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin dictare (to dictate)",
+                            "root_words": [
+                                "dictare"
+                            ]
                         },
                         {
                             "term": "condonation",
                             "definition": "act of overlooking (an offense, etc.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin con (with) + donare (to give)",
+                            "root_words": [
+                                "con",
+                                "donare"
+                            ]
                         },
                         {
                             "term": "implacable",
                             "definition": "unyieldingly hostile; beyond soothing; relentless; pitiless",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin in (not) + placare (to soothe)",
+                            "root_words": [
+                                "in",
+                                "placare"
+                            ]
                         },
                         {
                             "term": "placatory",
                             "definition": "intended to soothe or pacify (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin placare (to soothe)",
+                            "root_words": [
+                                "placare"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -296,22 +486,40 @@
                         {
                             "term": "loquacious",
                             "definition": "talkative",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin loqui (to speak)",
+                            "root_words": [
+                                "loqui"
+                            ]
                         },
                         {
                             "term": "vociferous",
                             "definition": "noisy, vehement, clamorous",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vox (voice) + ferre (to bear)",
+                            "root_words": [
+                                "vox",
+                                "ferre"
+                            ]
                         },
                         {
                             "term": "inarticulate",
                             "definition": "incoherent; sputtering",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin in (not) + articulus (joint)",
+                            "root_words": [
+                                "in",
+                                "articulus"
+                            ]
                         },
                         {
                             "term": "garrulous",
                             "definition": "gabbing ceaselessly and with little meaning",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin garrire (to chatter)",
+                            "root_words": [
+                                "garrire"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -323,22 +531,40 @@
                         {
                             "term": "soliloquize",
                             "definition": "to speak to oneself",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin solus (alone) + loqui (to speak)",
+                            "root_words": [
+                                "solus",
+                                "loqui"
+                            ]
                         },
                         {
                             "term": "ventriloquize",
                             "definition": "to throw one’s voice",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin venter (belly) + loqui (to speak)",
+                            "root_words": [
+                                "venter",
+                                "loqui"
+                            ]
                         },
                         {
                             "term": "taciturnity",
                             "definition": "unwillingness to engage in conversation",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin tacere (to be silent)",
+                            "root_words": [
+                                "tacere"
+                            ]
                         },
                         {
                             "term": "tacit",
                             "definition": "unspoken",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin tacere (to be silent)",
+                            "root_words": [
+                                "tacere"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -350,17 +576,31 @@
                         {
                             "term": "evolutionary",
                             "definition": "gradually unfolding, resulting, or developing (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin e (out) + volvere (to roll)",
+                            "root_words": [
+                                "ex",
+                                "volvere"
+                            ]
                         },
                         {
                             "term": "revolutionary",
                             "definition": "causing, or resulting from, radical change (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin re (back) + volvere (to roll)",
+                            "root_words": [
+                                "re",
+                                "volvere"
+                            ]
                         },
                         {
                             "term": "laconism",
                             "definition": "quality of conciseness and economy in the use of words",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek Lakon (Spartan)",
+                            "root_words": [
+                                "Lakon"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -372,17 +612,31 @@
                         {
                             "term": "banality",
                             "definition": "hackneyed or trite phraseology",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from French banal (commonplace)",
+                            "root_words": [
+                                "banal"
+                            ]
                         },
                         {
                             "term": "somniferous",
                             "definition": "sleep-inducing",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin somnus (sleep) + ferre (to bring)",
+                            "root_words": [
+                                "somnus",
+                                "ferre"
+                            ]
                         },
                         {
                             "term": "insomnious",
                             "definition": "unable to fall asleep (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin in (not) + somnus (sleep)",
+                            "root_words": [
+                                "in",
+                                "somnus"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -400,22 +654,40 @@
                         {
                             "term": "hypochondriac",
                             "definition": "imaginary bodily ailments",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek hypo (under) + chondros (cartilage)",
+                            "root_words": [
+                                "hypo",
+                                "chondros"
+                            ]
                         },
                         {
                             "term": "martinet",
                             "definition": "a strict disciplinarian",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Jean Martinet (French drillmaster)",
+                            "root_words": [
+                                "Martinet"
+                            ]
                         },
                         {
                             "term": "lecher",
                             "definition": "a lewd and sexually aggressive male",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Old French lechier (to lick)",
+                            "root_words": [
+                                "lechier"
+                            ]
                         },
                         {
                             "term": "sycophant",
                             "definition": "a toady to people of wealth or power",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek sykon (fig) + phanein (to show)",
+                            "root_words": [
+                                "sykon",
+                                "phanein"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -427,37 +699,71 @@
                         {
                             "term": "patricide",
                             "definition": "father-killing (noun)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin pater (father) + caedere (to kill)",
+                            "root_words": [
+                                "pater",
+                                "caedere"
+                            ]
                         },
                         {
                             "term": "uxoricide",
                             "definition": "wife-killing (noun)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin uxor (wife) + caedere (to kill)",
+                            "root_words": [
+                                "uxor",
+                                "caedere"
+                            ]
                         },
                         {
                             "term": "matron",
                             "definition": "mature woman",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin mater (mother)",
+                            "root_words": [
+                                "mater"
+                            ]
                         },
                         {
                             "term": "sycophantic",
                             "definition": "toadying to people of influence (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek sykon (fig) + phanein (to show)",
+                            "root_words": [
+                                "sykon",
+                                "phanein"
+                            ]
                         },
                         {
                             "term": "synonyms",
                             "definition": "words of similar meaning",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek syn (same) + onyma (name)",
+                            "root_words": [
+                                "syn",
+                                "onyma"
+                            ]
                         },
                         {
                             "term": "antonyms",
                             "definition": "words of opposite meaning",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek anti (against) + onyma (name)",
+                            "root_words": [
+                                "anti",
+                                "onyma"
+                            ]
                         },
                         {
                             "term": "homonyms",
                             "definition": "words of the same sound",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek homos (same) + onyma (name)",
+                            "root_words": [
+                                "homos",
+                                "onyma"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -469,22 +775,39 @@
                         {
                             "term": "fraternize",
                             "definition": "to socialize",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin frater (brother)",
+                            "root_words": [
+                                "frater"
+                            ]
                         },
                         {
                             "term": "uxorious",
                             "definition": "excessively indulgent to, and doting on, one’s wife",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin uxor (wife)",
+                            "root_words": [
+                                "uxor"
+                            ]
                         },
                         {
                             "term": "regalia",
                             "definition": "full dress, with ribbons, insignia, badges of office, etc.",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin rex (king)",
+                            "root_words": [
+                                "rex"
+                            ]
                         },
                         {
                             "term": "monomaniacal",
                             "definition": "obsessed in one area or with one overriding interest (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek monos (one) + mania (madness)",
+                            "root_words": [
+                                "monos",
+                                "mania"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -496,72 +819,137 @@
                         {
                             "term": "monomania",
                             "definition": "single fixed obsession",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek monos (one) + mania (madness)",
+                            "root_words": [
+                                "monos",
+                                "mania"
+                            ]
                         },
                         {
                             "term": "pyromania",
                             "definition": "irresistible compulsion to set fires",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek pyr (fire) + mania (madness)",
+                            "root_words": [
+                                "pyr",
+                                "mania"
+                            ]
                         },
                         {
                             "term": "nymphomania",
                             "definition": "unceasing desire, on the part of a woman, for sexual intercourse",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek nymphe (bride) + mania (madness)",
+                            "root_words": [
+                                "nymphe",
+                                "mania"
+                            ]
                         },
                         {
                             "term": "lecherous",
                             "definition": "P meaning “sexually curious or longing.”",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Old French lechier (to lick)",
+                            "root_words": [
+                                "lechier"
+                            ]
                         },
                         {
                             "term": "libidinous",
                             "definition": "1. L__________________",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin libido (desire)",
+                            "root_words": [
+                                "libido"
+                            ]
                         },
                         {
                             "term": "lascivious",
                             "definition": "2. L__________________",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin lascivia (wantonness)",
+                            "root_words": [
+                                "lascivia"
+                            ]
                         },
                         {
                             "term": "theology",
                             "definition": "study of religion",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek theos (god) + logos (study)",
+                            "root_words": [
+                                "theos",
+                                "logos"
+                            ]
                         },
                         {
                             "term": "pantheism",
                             "definition": "belief that God is the sum total of natural forces",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek pan (all) + theos (god)",
+                            "root_words": [
+                                "pan",
+                                "theos"
+                            ]
                         },
                         {
                             "term": "atheism",
                             "definition": "belief that there is no God",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek a (no/not) + theos (god)",
+                            "root_words": [
+                                "a",
+                                "theos"
+                            ]
                         },
                         {
                             "term": "agnosticism",
                             "definition": "belief that God’s existence is unknowable",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek a (no/not) + gnostos (known)",
+                            "root_words": [
+                                "a",
+                                "gnostos"
+                            ]
                         },
                         {
                             "term": "hypochondria",
                             "definition": "morbid anxiety about one’s health",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek hypo (under) + chondros (cartilage)",
+                            "root_words": [
+                                "hypo",
+                                "chondros"
+                            ]
                         },
                         {
                             "term": "hypertension",
                             "definition": "high blood pressure",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek hyper (over) + teinein (to stretch)",
+                            "root_words": [
+                                "hyper",
+                                "teinein"
+                            ]
                         },
                         {
                             "term": "incendiarism",
                             "definition": "malicious fire-setting",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin incendere (to set fire)",
+                            "root_words": [
+                                "incendere"
+                            ]
                         },
                         {
                             "term": "arson",
                             "definition": "the felony of setting fire for economic gain",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ardere (to burn)",
+                            "root_words": [
+                                "ardere"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -579,22 +967,40 @@
                         {
                             "term": "scintillating",
                             "definition": "witty",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin scintilla (spark)",
+                            "root_words": [
+                                "scintilla"
+                            ]
                         },
                         {
                             "term": "magnanimous",
                             "definition": "noble, forgiving",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin magnus (great) + animus (mind)",
+                            "root_words": [
+                                "magnus",
+                                "animus"
+                            ]
                         },
                         {
                             "term": "versatile",
                             "definition": "capable in many fields",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vertere (to turn)",
+                            "root_words": [
+                                "vertere"
+                            ]
                         },
                         {
                             "term": "perspicacious",
                             "definition": "keen-minded",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin perspicere (to see through)",
+                            "root_words": [
+                                "per",
+                                "specere"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -606,22 +1012,42 @@
                         {
                             "term": "oviparous",
                             "definition": "bearing young by eggs (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ovum (egg) + parere (to bring forth)",
+                            "root_words": [
+                                "ovum",
+                                "parere"
+                            ]
                         },
                         {
                             "term": "viviparous",
                             "definition": "bearing live young (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vivere (to live) + parere (to bring forth)",
+                            "root_words": [
+                                "vivere",
+                                "parere"
+                            ]
                         },
                         {
                             "term": "conviviality",
                             "definition": "good-fellowship",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin con (with) + vivere (to live)",
+                            "root_words": [
+                                "con",
+                                "vivere"
+                            ]
                         },
                         {
                             "term": "vivisection",
                             "definition": "operating on live animals",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vivere (to live) + sectio (cutting)",
+                            "root_words": [
+                                "vivere",
+                                "sectio"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -633,22 +1059,39 @@
                         {
                             "term": "credulous",
                             "definition": "believing (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin credere (to believe)",
+                            "root_words": [
+                                "credere"
+                            ]
                         },
                         {
                             "term": "creed",
                             "definition": "religious belief",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin credo (I believe)",
+                            "root_words": [
+                                "credo"
+                            ]
                         },
                         {
                             "term": "credible",
                             "definition": "believable",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin credibilis (believable)",
+                            "root_words": [
+                                "credibilis"
+                            ]
                         },
                         {
                             "term": "indefatigability",
                             "definition": "great reservoir of energy",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin in (not) + de (completing) + fatigare (to tire)",
+                            "root_words": [
+                                "in",
+                                "fatigare"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -660,37 +1103,67 @@
                         {
                             "term": "specious",
                             "definition": "plausible, but false or incorrect",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin species (appearance)",
+                            "root_words": [
+                                "species"
+                            ]
                         },
                         {
                             "term": "pungence",
                             "definition": "spiciness, sharpness; piercing quality",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin pungere (to pierce)",
+                            "root_words": [
+                                "pungere"
+                            ]
                         },
                         {
                             "term": "perspicuous",
                             "definition": "clear; easily understood",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin perspicere (to see through)",
+                            "root_words": [
+                                "per",
+                                "specere"
+                            ]
                         },
                         {
                             "term": "acumen",
                             "definition": "sharpness of mind or of intelligence",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin acuere (to sharpen)",
+                            "root_words": [
+                                "acuere"
+                            ]
                         },
                         {
                             "term": "perspicacity",
                             "definition": "keenness of mind",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin perspicere (to see through)",
+                            "root_words": [
+                                "per",
+                                "specere"
+                            ]
                         },
                         {
                             "term": "acute",
                             "definition": "sharp; sudden; keen-minded",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin acutus (sharpened)",
+                            "root_words": [
+                                "acutus"
+                            ]
                         },
                         {
                             "term": "punctuate",
                             "definition": "to interrupt suddenly",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin punctum (point)",
+                            "root_words": [
+                                "punctum"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -708,127 +1181,240 @@
                         {
                             "term": "versatility",
                             "definition": "ability in many fields",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vertere (to turn)",
+                            "root_words": [
+                                "vertere"
+                            ]
                         },
                         {
                             "term": "urban",
                             "definition": "pertaining to the city (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin urbs (city)",
+                            "root_words": [
+                                "urbs"
+                            ]
                         },
                         {
                             "term": "rusticate",
                             "definition": "to spend time in the country",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin rus (country)",
+                            "root_words": [
+                                "rus"
+                            ]
                         },
                         {
                             "term": "scintilla",
                             "definition": "merest spark; small amount",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin scintilla (spark)",
+                            "root_words": [
+                                "scintilla"
+                            ]
                         },
                         {
                             "term": "intrepidity",
                             "definition": "courage",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin in (not) + trepidus (alarmed)",
+                            "root_words": [
+                                "in",
+                                "trepidus"
+                            ]
                         },
                         {
                             "term": "stoicism",
                             "definition": "unfiinching fortitude",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek stoa (porch)",
+                            "root_words": [
+                                "stoa"
+                            ]
                         },
                         {
                             "term": "rustic",
                             "definition": "countrified; unpolished",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin rus (country)",
+                            "root_words": [
+                                "rus"
+                            ]
                         },
                         {
                             "term": "rural",
                             "definition": "pertaining to the countryside (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin rus (country)",
+                            "root_words": [
+                                "rus"
+                            ]
                         },
                         {
                             "term": "retrospect",
                             "definition": "a looking back to the past",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin retro (backward) + spectare (to look)",
+                            "root_words": [
+                                "retro",
+                                "spectare"
+                            ]
                         },
                         {
                             "term": "magnanimity",
                             "definition": "nobleness of mind or spirit",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin magnus (great) + animus (mind)",
+                            "root_words": [
+                                "magnus",
+                                "animus"
+                            ]
                         },
                         {
                             "term": "acuity",
                             "definition": "keen-mindedness",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin acuere (to sharpen)",
+                            "root_words": [
+                                "acuere"
+                            ]
                         },
                         {
                             "term": "pcrspicuous",
                             "definition": "clear, lucid",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin perspicere (to see through)",
+                            "root_words": [
+                                "per",
+                                "specere"
+                            ]
                         },
                         {
                             "term": "pusillanimous",
                             "definition": "petty, mean",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin pusillus (tiny) + animus (mind)",
+                            "root_words": [
+                                "pusillus",
+                                "animus"
+                            ]
                         },
                         {
                             "term": "unanimous",
                             "definition": "all of one mind or opinion",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin unus (one) + animus (mind)",
+                            "root_words": [
+                                "unus",
+                                "animus"
+                            ]
                         },
                         {
                             "term": "animus",
                             "definition": "ill will",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin animus (mind)",
+                            "root_words": [
+                                "animus"
+                            ]
                         },
                         {
                             "term": "perspicacity",
                             "definition": "–4. keenness of mind",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin perspicere (to see through)",
+                            "root_words": [
+                                "per",
+                                "specere"
+                            ]
                         },
                         {
                             "term": "acumen",
                             "definition": "or P__________________",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin acuere (to sharpen)",
+                            "root_words": [
+                                "acuere"
+                            ]
                         },
                         {
                             "term": "pusillanimity",
                             "definition": "pettiness of character",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin pusillus (tiny) + animus (mind)",
+                            "root_words": [
+                                "pusillus",
+                                "animus"
+                            ]
                         },
                         {
                             "term": "unanimity",
                             "definition": "noun form of unanimous",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin unus (one) + animus (mind)",
+                            "root_words": [
+                                "unus",
+                                "animus"
+                            ]
                         },
                         {
                             "term": "equanimity",
                             "definition": "mental calmness, balance",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin aequus (equal) + animus (mind)",
+                            "root_words": [
+                                "aequus",
+                                "animus"
+                            ]
                         },
                         {
                             "term": "trepidation",
                             "definition": "fear and trembling",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin trepidus (alarmed)",
+                            "root_words": [
+                                "trepidus"
+                            ]
                         },
                         {
                             "term": "introspective",
                             "definition": "reactions",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin intro (inward) + spectare (to look)",
+                            "root_words": [
+                                "intro",
+                                "spectare"
+                            ]
                         },
                         {
                             "term": "circumspect",
                             "definition": "cautious",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin circum (around) + spectare (to look)",
+                            "root_words": [
+                                "circum",
+                                "spectare"
+                            ]
                         },
                         {
                             "term": "specious",
                             "definition": "seemingly true, actually false",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin species (appearance)",
+                            "root_words": [
+                                "species"
+                            ]
                         },
                         {
                             "term": "introspect",
                             "definition": "to think of one’s mental processes",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin intro (inward) + spectare (to look)",
+                            "root_words": [
+                                "intro",
+                                "spectare"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -846,22 +1432,40 @@
                         {
                             "term": "cacophony",
                             "definition": "harsh sound",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek kakos (bad) + phone (sound)",
+                            "root_words": [
+                                "kakos",
+                                "phone"
+                            ]
                         },
                         {
                             "term": "ephemeral",
                             "definition": "having a short life",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek ephemeros (lasting a day)",
+                            "root_words": [
+                                "ephemeros"
+                            ]
                         },
                         {
                             "term": "penury",
                             "definition": "dire poverty",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin penuria (need)",
+                            "root_words": [
+                                "penuria"
+                            ]
                         },
                         {
                             "term": "euphemism",
                             "definition": "ofiensive one of the same meaning",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek eu (good) + pheme (voice)",
+                            "root_words": [
+                                "eu",
+                                "pheme"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -873,27 +1477,49 @@
                         {
                             "term": "anodyne",
                             "definition": "a statement, usually untrue, meant to alleviate fear",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek an (without) + odyne (pain)",
+                            "root_words": [
+                                "an",
+                                "odyne"
+                            ]
                         },
                         {
                             "term": "persi",
                             "definition": "light banter",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from French persifler (to hiss)",
+                            "root_words": [
+                                "persifler"
+                            ]
                         },
                         {
                             "term": "clich",
                             "definition": "a hackneyed phrase",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from French clicher (to click)",
+                            "root_words": [
+                                "clicher"
+                            ]
                         },
                         {
                             "term": "evanescent",
                             "definition": "fieeting—lasting a very short time (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin evanescere (to vanish)",
+                            "root_words": [
+                                "evanescere"
+                            ]
                         },
                         {
                             "term": "eulogistic",
                             "definition": "laudatory—delivered in tones of formal praise (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek eu (good) + logos (word)",
+                            "root_words": [
+                                "eu",
+                                "logos"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -905,112 +1531,207 @@
                         {
                             "term": "clandestinely",
                             "definition": "–2. secretly (two forms)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin clandestinus (secret)",
+                            "root_words": [
+                                "clandestinus"
+                            ]
                         },
                         {
                             "term": "surreptitiously",
                             "definition": "1. C__________________",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin sub (under) + rapere (to snatch)",
+                            "root_words": [
+                                "sub",
+                                "rapere"
+                            ]
                         },
                         {
                             "term": "cacophonously",
                             "definition": "in a harsh and noisy manner",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek kakos (bad) + phone (sound)",
+                            "root_words": [
+                                "kakos",
+                                "phone"
+                            ]
                         },
                         {
                             "term": "voracity",
                             "definition": "greediness",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vorare (to devour)",
+                            "root_words": [
+                                "vorare"
+                            ]
                         },
                         {
                             "term": "omnipotence",
                             "definition": "unlimited power",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin omnis (all) + potens (powerful)",
+                            "root_words": [
+                                "omnis",
+                                "potens"
+                            ]
                         },
                         {
                             "term": "omniscience",
                             "definition": "infinite knowledge",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin omnis (all) + sciens (knowing)",
+                            "root_words": [
+                                "omnis",
+                                "sciens"
+                            ]
                         },
                         {
                             "term": "omnibus",
                             "definition": "a gathering of all things",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin omnis (for all)",
+                            "root_words": [
+                                "omnis"
+                            ]
                         },
                         {
                             "term": "leonine",
                             "definition": "lionlike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin leo (lion)",
+                            "root_words": [
+                                "leo"
+                            ]
                         },
                         {
                             "term": "canine",
                             "definition": "doglike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin canis (dog)",
+                            "root_words": [
+                                "canis"
+                            ]
                         },
                         {
                             "term": "feline",
                             "definition": "catlike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin felis (cat)",
+                            "root_words": [
+                                "felis"
+                            ]
                         },
                         {
                             "term": "bovine",
                             "definition": "cowlike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin bos (cow)",
+                            "root_words": [
+                                "bos"
+                            ]
                         },
                         {
                             "term": "vulpine",
                             "definition": "foxlike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vulpes (fox)",
+                            "root_words": [
+                                "vulpes"
+                            ]
                         },
                         {
                             "term": "ursine",
                             "definition": "bearlike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ursus (bear)",
+                            "root_words": [
+                                "ursus"
+                            ]
                         },
                         {
                             "term": "omnipotent",
                             "definition": "all-powerful",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin omnis (all) + potens (powerful)",
+                            "root_words": [
+                                "omnis",
+                                "potens"
+                            ]
                         },
                         {
                             "term": "omniscient",
                             "definition": "all-knowing",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin omnis (all) + sciens (knowing)",
+                            "root_words": [
+                                "omnis",
+                                "sciens"
+                            ]
                         },
                         {
                             "term": "omnipresent",
                             "definition": "present or existing everywhere",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin omnis (all) + praesens (present)",
+                            "root_words": [
+                                "omnis",
+                                "praesens"
+                            ]
                         },
                         {
                             "term": "ubiquitous",
                             "definition": "found everywhere",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ubique (everywhere)",
+                            "root_words": [
+                                "ubique"
+                            ]
                         },
                         {
                             "term": "lupine",
                             "definition": "wolfiike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin lupus (wolf)",
+                            "root_words": [
+                                "lupus"
+                            ]
                         },
                         {
                             "term": "equine",
                             "definition": "horselike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin equus (horse)",
+                            "root_words": [
+                                "equus"
+                            ]
                         },
                         {
                             "term": "piscine",
                             "definition": "fishlike",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin piscis (fish)",
+                            "root_words": [
+                                "piscis"
+                            ]
                         },
                         {
                             "term": "phonetic",
                             "definition": "referring to speech sounds",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek phone (sound)",
+                            "root_words": [
+                                "phone"
+                            ]
                         },
                         {
                             "term": "phonetician",
                             "definition": "expert in speech sounds",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek phone (sound)",
+                            "root_words": [
+                                "phone"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -1028,22 +1749,38 @@
                         {
                             "term": "simulate",
                             "definition": "pretend",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin simulare (to pretend)",
+                            "root_words": [
+                                "simulare"
+                            ]
                         },
                         {
                             "term": "castigate",
                             "definition": "scold",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin castigare (to correct)",
+                            "root_words": [
+                                "castigare"
+                            ]
                         },
                         {
-                            "term": "self",
+                            "term": "self-abnegation",
                             "definition": "sacrifice one’s desires",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin abnegare (to deny)",
+                            "root_words": [
+                                "abnegare"
+                            ]
                         },
                         {
                             "term": "vacillate",
                             "definition": "waver",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin vacillare (to waver)",
+                            "root_words": [
+                                "vacillare"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -1055,22 +1792,41 @@
                         {
                             "term": "capitulate",
                             "definition": "to give in",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin capitulum (chapter)",
+                            "root_words": [
+                                "capitulum"
+                            ]
                         },
                         {
                             "term": "synergistic",
                             "definition": "working together for greater efiect (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Greek syn (together) + ergon (work)",
+                            "root_words": [
+                                "syn",
+                                "ergon"
+                            ]
                         },
                         {
                             "term": "enervation",
                             "definition": "total fatigue",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin e (out) + nervus (nerve)",
+                            "root_words": [
+                                "e",
+                                "nervus"
+                            ]
                         },
                         {
                             "term": "recapitulatory",
                             "definition": "for the purpose of summarizing or review (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin re (again) + capitulum (chapter)",
+                            "root_words": [
+                                "re",
+                                "capitulum"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -1082,17 +1838,31 @@
                         {
                             "term": "oscillate",
                             "definition": "to swing back and forth",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin oscillare (to swing)",
+                            "root_words": [
+                                "oscillare"
+                            ]
                         },
                         {
                             "term": "ambivalent",
                             "definition": "feeling both ways at the same time (adj.)",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin ambi (both) + valere (to be strong)",
+                            "root_words": [
+                                "ambi",
+                                "valere"
+                            ]
                         },
                         {
                             "term": "dissimulate",
                             "definition": "to conceal real feelings",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin dis (not) + simulare (to pretend)",
+                            "root_words": [
+                                "dis",
+                                "simulare"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -1110,27 +1880,47 @@
                         {
                             "term": "dolorous",
                             "definition": "sorrowful",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin dolor (pain)",
+                            "root_words": [
+                                "dolor"
+                            ]
                         },
                         {
                             "term": "obsequious",
                             "definition": "servilely attentive; overly polite",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin obsequi (to comply)",
+                            "root_words": [
+                                "obsequi"
+                            ]
                         },
                         {
                             "term": "cadaverous",
                             "definition": "haggard; gaunt; pale",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin cadaver (dead body)",
+                            "root_words": [
+                                "cadaver"
+                            ]
                         },
                         {
                             "term": "querulous",
                             "definition": "complaining; whining",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin queri (to complain)",
+                            "root_words": [
+                                "queri"
+                            ]
                         },
                         {
                             "term": "bibulous",
                             "definition": "addicted to alcohol; likely to drink past the point of sobriety",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin bibere (to drink)",
+                            "root_words": [
+                                "bibere"
+                            ]
                         }
                     ],
                     "exercises": []
@@ -1142,32 +1932,57 @@
                         {
                             "term": "noxious",
                             "definition": "harmful",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin noxa (harm)",
+                            "root_words": [
+                                "noxa"
+                            ]
                         },
                         {
                             "term": "sequel",
                             "definition": "a literary work or an event that follows another",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin sequi (to follow)",
+                            "root_words": [
+                                "sequi"
+                            ]
                         },
                         {
                             "term": "imbibe",
                             "definition": "drink in",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin in (in) + bibere (to drink)",
+                            "root_words": [
+                                "in",
+                                "bibere"
+                            ]
                         },
                         {
                             "term": "dolor",
                             "definition": "poetic word for sorrow",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin dolor (pain)",
+                            "root_words": [
+                                "dolor"
+                            ]
                         },
                         {
                             "term": "obsequies",
                             "definition": "burial ceremonies",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin obsequi (to comply)",
+                            "root_words": [
+                                "obsequi"
+                            ]
                         },
                         {
                             "term": "equestrian",
                             "definition": "horseman",
-                            "part_of_speech": "noun"
+                            "part_of_speech": "noun",
+                            "etymology": "from Latin equus (horse)",
+                            "root_words": [
+                                "equus"
+                            ]
                         }
                     ],
                     "exercises": []

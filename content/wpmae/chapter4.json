@@ -9,22 +9,42 @@
                 {
                     "term": "entomologist",
                     "definition": "insects",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek entomon (insect) + logos (study)",
+                    "root_words": [
+                        "entomon",
+                        "logos"
+                    ]
                 },
                 {
                     "term": "philologist",
                     "definition": "language",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek philein (to love) + logos (word/study)",
+                    "root_words": [
+                        "philein",
+                        "logos"
+                    ]
                 },
                 {
                     "term": "sociologist",
                     "definition": "social conditions",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Latin socius (companion) + Greek logos (study)",
+                    "root_words": [
+                        "socius",
+                        "logos"
+                    ]
                 },
                 {
                     "term": "anthropologist",
                     "definition": "history of development of mankind",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek anthropos (mankind) + logos (study)",
+                    "root_words": [
+                        "anthropos",
+                        "logos"
+                    ]
                 }
             ],
             "exercises": []
@@ -36,47 +56,91 @@
                 {
                     "term": "zoological",
                     "definition": "pertaining to the science of animals (adj.)",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek zoion (animal)",
+                    "root_words": [
+                        "zoion"
+                    ]
                 },
                 {
                     "term": "botanical",
                     "definition": "pertaining to the science of plants (adj.)",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek botane (plant)",
+                    "root_words": [
+                        "botane"
+                    ]
                 },
                 {
                     "term": "autopsy",
                     "definition": "dissection of a corpse to determine the cause of death",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek autos (self) + opsis (sight)",
+                    "root_words": [
+                        "autos",
+                        "opsis"
+                    ]
                 },
                 {
                     "term": "autobiography",
                     "definition": "story of one’s life, self-written",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek autos (self) + bios (life) + graphein (write)",
+                    "root_words": [
+                        "autos",
+                        "bios",
+                        "graphein"
+                    ]
                 },
                 {
                     "term": "biopsy",
                     "definition": "microscopic examination of living tissue",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek bios (life) + opsis (sight)",
+                    "root_words": [
+                        "bios",
+                        "opsis"
+                    ]
                 },
                 {
                     "term": "autonomy",
                     "definition": "self-government",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek autos (self) + nomos (law)",
+                    "root_words": [
+                        "autos",
+                        "nomos"
+                    ]
                 },
                 {
                     "term": "metronome",
                     "definition": "time measurer for music",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek metron (measure) + nomos (law)",
+                    "root_words": [
+                        "metron",
+                        "nomos"
+                    ]
                 },
                 {
                     "term": "astronaut",
                     "definition": "voyager among the stars",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek astron (star) + nautes (sailor)",
+                    "root_words": [
+                        "astron",
+                        "nautes"
+                    ]
                 },
                 {
                     "term": "cosmonaut",
                     "definition": "traveler through the universe",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek kosmos (universe) + nautes (sailor)",
+                    "root_words": [
+                        "kosmos",
+                        "nautes"
+                    ]
                 }
             ],
             "exercises": []
@@ -88,17 +152,31 @@
                 {
                     "term": "sociological",
                     "definition": "pertaining to the study of social customs (adj.)",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Latin socius (companion) + Greek logos (study)",
+                    "root_words": [
+                        "socius",
+                        "logos"
+                    ]
                 },
                 {
                     "term": "semantic",
                     "definition": "pertaining to the psychological effects of words (adj.)",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek sema (sign)",
+                    "root_words": [
+                        "sema"
+                    ]
                 },
                 {
                     "term": "bibliophile",
                     "definition": "lover and collector of books",
-                    "part_of_speech": "noun"
+                    "part_of_speech": "noun",
+                    "etymology": "from Greek biblion (book) + philein (to love)",
+                    "root_words": [
+                        "biblion",
+                        "philein"
+                    ]
                 }
             ],
             "exercises": []

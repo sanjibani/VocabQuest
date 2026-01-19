@@ -17,6 +17,10 @@
               "tags": [
                 "personality",
                 "ego"
+              ],
+              "etymology": "from Latin ego (I)",
+              "root_words": [
+                "ego"
               ]
             },
             {
@@ -27,6 +31,10 @@
               "tags": [
                 "personality",
                 "ego"
+              ],
+              "etymology": "from Latin ego (I)",
+              "root_words": [
+                "ego"
               ]
             },
             {
@@ -36,6 +44,10 @@
               "tags": [
                 "personality",
                 "virtue"
+              ],
+              "etymology": "from Latin alter (other)",
+              "root_words": [
+                "alter"
               ]
             },
             {
@@ -45,6 +57,11 @@
               "tags": [
                 "personality",
                 "social"
+              ],
+              "etymology": "from Latin intro- (inward) + vertere (to turn)",
+              "root_words": [
+                "intro-",
+                "vertere"
               ]
             },
             {
@@ -54,6 +71,11 @@
               "tags": [
                 "personality",
                 "social"
+              ],
+              "etymology": "from Latin extra- (outward) + vertere (to turn)",
+              "root_words": [
+                "extra-",
+                "vertere"
               ]
             },
             {
@@ -63,6 +85,11 @@
               "tags": [
                 "personality",
                 "social"
+              ],
+              "etymology": "from Latin ambi- (both) + vertere (to turn)",
+              "root_words": [
+                "ambi-",
+                "vertere"
               ]
             },
             {
@@ -72,6 +99,11 @@
               "tags": [
                 "personality",
                 "negative"
+              ],
+              "etymology": "from Greek misein (to hate) + anthropos (mankind)",
+              "root_words": [
+                "misein",
+                "anthropos"
               ]
             },
             {
@@ -81,6 +113,11 @@
               "tags": [
                 "personality",
                 "negative"
+              ],
+              "etymology": "from Greek misein (to hate) + gyne (woman)",
+              "root_words": [
+                "misein",
+                "gyne"
               ]
             },
             {
@@ -90,6 +127,11 @@
               "tags": [
                 "personality",
                 "negative"
+              ],
+              "etymology": "from Greek misein (to hate) + gamos (marriage)",
+              "root_words": [
+                "misein",
+                "gamos"
               ]
             },
             {
@@ -99,6 +141,10 @@
               "tags": [
                 "lifestyle",
                 "discipline"
+              ],
+              "etymology": "from Greek asketes (monk/hermit)",
+              "root_words": [
+                "asketes"
               ]
             }
           ],
@@ -165,6 +211,11 @@
               "tags": [
                 "personality",
                 "ego"
+              ],
+              "etymology": "from Latin ego (I) + centrum (center)",
+              "root_words": [
+                "ego",
+                "centrum"
               ]
             },
             {
@@ -174,6 +225,11 @@
               "tags": [
                 "personality",
                 "psychology"
+              ],
+              "etymology": "from Latin ego (I) + Greek mania (madness)",
+              "root_words": [
+                "ego",
+                "mania"
               ]
             },
             {
@@ -183,6 +239,10 @@
               "tags": [
                 "philosophy",
                 "virtue"
+              ],
+              "etymology": "from Latin alter (other)",
+              "root_words": [
+                "alter"
               ]
             },
             {
@@ -191,6 +251,10 @@
               "exampleSentence": "We generally alternate who drives to work.",
               "tags": [
                 "action"
+              ],
+              "etymology": "from Latin alter (other)",
+              "root_words": [
+                "alter"
               ]
             },
             {
@@ -199,6 +263,10 @@
               "exampleSentence": "They got into a loud altercation over the parking spot.",
               "tags": [
                 "conflict"
+              ],
+              "etymology": "from Latin alter (other)",
+              "root_words": [
+                "alter"
               ]
             },
             {
@@ -207,6 +275,11 @@
               "exampleSentence": "Batman is Bruce Wayne's alter ego.",
               "tags": [
                 "identity"
+              ],
+              "etymology": "Latin for \"other self\"",
+              "root_words": [
+                "alter",
+                "ego"
               ]
             }
           ],
@@ -261,6 +334,10 @@
               "exampleSentence": "The dexterous surgeon performed the delicate operation perfectly.",
               "tags": [
                 "skill"
+              ],
+              "etymology": "from Latin dexter (right hand)",
+              "root_words": [
+                "dexter"
               ]
             },
             {
@@ -269,6 +346,11 @@
               "exampleSentence": "The ambidextrous pitcher could throw with either arm.",
               "tags": [
                 "skill"
+              ],
+              "etymology": "from Latin ambi (both) + dexter (right hand)",
+              "root_words": [
+                "ambi",
+                "dexter"
               ]
             },
             {
@@ -277,6 +359,10 @@
               "exampleSentence": "There was something sinister about the dark, abandoned house.",
               "tags": [
                 "negative"
+              ],
+              "etymology": "from Latin sinister (left hand)",
+              "root_words": [
+                "sinister"
               ]
             },
             {
@@ -286,6 +372,10 @@
               "tags": [
                 "social",
                 "negative"
+              ],
+              "etymology": "from French gauche (left hand)",
+              "root_words": [
+                "gauche"
               ]
             },
             {
@@ -294,6 +384,10 @@
               "exampleSentence": "She was adroit at handling difficult customers.",
               "tags": [
                 "skill"
+              ],
+              "etymology": "from French adroit (to the right)",
+              "root_words": [
+                "adroit"
               ]
             },
             {
@@ -328,6 +422,11 @@
               "exampleSentence": "Monogamy is the standard in many cultures.",
               "tags": [
                 "relationship"
+              ],
+              "etymology": "from Greek monos (one) + gamos (marriage)",
+              "root_words": [
+                "monos",
+                "gamos"
               ]
             },
             {
@@ -336,6 +435,11 @@
               "exampleSentence": "He was arrested for bigamy after his second wife found out about the first.",
               "tags": [
                 "crime"
+              ],
+              "etymology": "from Latin bi- (two) + Greek gamos (marriage)",
+              "root_words": [
+                "bi-",
+                "gamos"
               ]
             },
             {
@@ -344,6 +448,11 @@
               "exampleSentence": "Polygamy is illegal in most Western countries.",
               "tags": [
                 "relationship"
+              ],
+              "etymology": "from Greek polys (many) + gamos (marriage)",
+              "root_words": [
+                "polys",
+                "gamos"
               ]
             }
           ],
@@ -405,6 +514,10 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Latin internus (inside)",
+              "root_words": [
+                "internus"
               ]
             },
             {
@@ -414,6 +527,11 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Greek gyne (woman) + logos (study)",
+              "root_words": [
+                "gyne",
+                "logos"
               ]
             },
             {
@@ -423,6 +541,10 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Latin obstetric (midwife)",
+              "root_words": [
+                "obstetric"
               ]
             },
             {
@@ -432,6 +554,11 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Greek paidos (child) + iatreia (medical healing)",
+              "root_words": [
+                "paidos",
+                "iatreia"
               ]
             },
             {
@@ -441,6 +568,10 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Greek derma (skin)",
+              "root_words": [
+                "derma"
               ]
             },
             {
@@ -450,6 +581,10 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Greek ophthalmos (eye)",
+              "root_words": [
+                "ophthalmos"
               ]
             },
             {
@@ -459,6 +594,11 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Greek orthos (straight) + paidos (child)",
+              "root_words": [
+                "orthos",
+                "paidos"
               ]
             },
             {
@@ -468,6 +608,11 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Greek kardia (heart) + logos (study)",
+              "root_words": [
+                "kardia",
+                "logos"
               ]
             },
             {
@@ -477,6 +622,11 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Greek neuron (nerve) + logos (study)",
+              "root_words": [
+                "neuron",
+                "logos"
               ]
             },
             {
@@ -486,6 +636,11 @@
               "tags": [
                 "medicine",
                 "doctor"
+              ],
+              "etymology": "from Greek psyche (mind) + iatreia (medical healing)",
+              "root_words": [
+                "psyche",
+                "iatreia"
               ]
             }
           ],
@@ -540,6 +695,11 @@
               "exampleSentence": "She decided to specialize in pediatrics.",
               "tags": [
                 "medicine"
+              ],
+              "etymology": "from Greek paidos (child) + iatreia (medical healing)",
+              "root_words": [
+                "paidos",
+                "iatreia"
               ]
             },
             {
@@ -548,6 +708,11 @@
               "exampleSentence": "The professor was an expert in pedagogy.",
               "tags": [
                 "education"
+              ],
+              "etymology": "from Greek paidos (child) + agogos (leading)",
+              "root_words": [
+                "paidos",
+                "agogos"
               ]
             },
             {
@@ -557,6 +722,11 @@
               "tags": [
                 "politics",
                 "negative"
+              ],
+              "etymology": "from Greek demos (people) + agogos (leading)",
+              "root_words": [
+                "demos",
+                "agogos"
               ]
             },
             {
@@ -565,6 +735,11 @@
               "exampleSentence": "Dermatology deals with everything from rashes to skin cancer.",
               "tags": [
                 "medicine"
+              ],
+              "etymology": "from Greek derma (skin) + logos (study)",
+              "root_words": [
+                "derma",
+                "logos"
               ]
             },
             {
@@ -573,6 +748,11 @@
               "exampleSentence": " The museum featured excellent taxidermy.",
               "tags": [
                 "craft"
+              ],
+              "etymology": "from Greek taxis (arrangement) + derma (skin)",
+              "root_words": [
+                "taxis",
+                "derma"
               ]
             },
             {
@@ -581,6 +761,10 @@
               "exampleSentence": "He suffered from ocular strain after staring at the screen.",
               "tags": [
                 "medicine"
+              ],
+              "etymology": "from Latin oculus (eye)",
+              "root_words": [
+                "oculus"
               ]
             },
             {
@@ -589,6 +773,11 @@
               "exampleSentence": " The old gentleman wore a monocle.",
               "tags": [
                 "fashion"
+              ],
+              "etymology": "from Greek monos (one) + Latin oculus (eye)",
+              "root_words": [
+                "monos",
+                "oculus"
               ]
             }
           ],
@@ -633,6 +822,11 @@
               "tags": [
                 "medicine",
                 "dentistry"
+              ],
+              "etymology": "from Greek orthos (straight) + odous (tooth)",
+              "root_words": [
+                "orthos",
+                "odous"
               ]
             },
             {
@@ -641,6 +835,10 @@
               "exampleSentence": "He suffered a cardiac arrest.",
               "tags": [
                 "medicine"
+              ],
+              "etymology": "from Greek kardia (heart)",
+              "root_words": [
+                "kardia"
               ]
             },
             {
@@ -649,6 +847,11 @@
               "exampleSentence": "The cardiogram showed an irregular rhythm.",
               "tags": [
                 "medicine"
+              ],
+              "etymology": "from Greek kardia (heart) + gramma (writing)",
+              "root_words": [
+                "kardia",
+                "gramma"
               ]
             },
             {
@@ -657,6 +860,11 @@
               "exampleSentence": "His obsession with cleanliness bordered on neurosis.",
               "tags": [
                 "psychology"
+              ],
+              "etymology": "from Greek neuron (nerve) + -osis (condition)",
+              "root_words": [
+                "neuron",
+                "-osis"
               ]
             },
             {
@@ -665,6 +873,11 @@
               "exampleSentence": "Neurology is a complex field requiring years of study.",
               "tags": [
                 "medicine"
+              ],
+              "etymology": "from Greek neuron (nerve) + logos (study)",
+              "root_words": [
+                "neuron",
+                "logos"
               ]
             }
           ],

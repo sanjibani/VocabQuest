@@ -1,0 +1,56 @@
+Checking All Sessions for Missing Etymology...
+============================================
+
+📄 File: book.json
+  ✅ Session 1: Personality Types (Basic Terms)
+  ✅ Session 2: Origins of Personality Words
+  ✅ Session 3: More Origins (Dexterous/Sinister)
+  ✅ Session 4: Medical Specialists (The Practitioners)
+  ✅ Session 5: Origins of Medical Words 1
+  ✅ Session 6: Origins of Medical Words 2
+
+📄 File: chapter3.json
+  ✅ Session 7:  The Practitioners
+  ✅ Session 8: Origins of Practitioners (Psyche, Soma)
+  ✅ Session 9: Origins (Dental, Optical)
+  ✅ Session 10: Origins (Skeleton, Hands, Feet)
+
+📄 File: chapter4.json
+  ✅ Session 11: Science and Scientists I
+  ✅ Session 12: Science and Scientists II
+  ✅ Session 13: Science and Scientists III
+
+📄 File: remaining_chapters.json
+  ✅ Session 14: How to Talk About Liars and Lying - Session 14
+  ✅ Session 15: How to Talk About Liars and Lying - Session 15
+  ✅ Session 16: How to Talk About Liars and Lying - Session 16
+  ✅ Session 17: How to Talk About Liars and Lying - Session 17
+  ✅ Session 19: How to Talk About Actions - Session 19
+  ✅ Session 20: How to Talk About Actions - Session 20
+  ✅ Session 21: How to Talk About Actions - Session 21
+  ✅ Session 22: How to Talk About Actions - Session 22
+  ✅ Session 23: How to Talk About Actions - Session 23
+  ✅ Session 24: How to Talk About Various Speech Habits - Session 24
+  ✅ Session 25: How to Talk About Various Speech Habits - Session 25
+  ✅ Session 26: How to Talk About Various Speech Habits - Session 26
+  ✅ Session 27: How to Talk About Various Speech Habits - Session 27
+  ✅ Session 28: How to Insult Your Enemies - Session 28
+  ✅ Session 29: How to Insult Your Enemies - Session 29
+  ✅ Session 30: How to Insult Your Enemies - Session 30
+  ✅ Session 31: How to Insult Your Enemies - Session 31
+  ✅ Session 32: How to Flatter Your Friends - Session 32
+  ✅ Session 33: How to Flatter Your Friends - Session 33
+  ✅ Session 34: How to Flatter Your Friends - Session 34
+  ✅ Session 35: How to Flatter Your Friends - Session 35
+  ✅ Session 36: How to Flatter Your Friends - Session 36
+  ❌ Session 37: How to Flatter Your Friends - Session 37 - Missing 13 / 25 words
+  ✅ Session 39: How to Talk About Common Phenomena and Occurrences - Session 39
+  ✅ Session 40: How to Talk About Common Phenomena and Occurrences - Session 40
+  ✅ Session 41: How to Talk About Common Phenomena and Occurrences - Session 41
+  ✅ Session 42: How to Talk About What Goes On - Session 42
+  ✅ Session 43: How to Talk About What Goes On - Session 43
+  ✅ Session 44: How to Talk About What Goes On - Session 44
+  ✅ Session 45: How to Talk About a Variety of Personal Characteristics - Session 45
+  ✅ Session 46: How to Talk About a Variety of Personal Characteristics - Session 46
+============================================
+SUMMARY: 13 out of 265 words are missing etymology.
