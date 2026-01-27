@@ -157,11 +157,11 @@ export default function ReviewPage() {
     const currentWord = words[currentIndex];
 
     return (
-        <main className="min-h-screen px-4 py-8">
-            <div className="max-w-2xl mx-auto">
+        <main className="h-[100dvh] flex flex-col px-4 py-4 md:py-8 overflow-hidden">
+            <div className="max-w-2xl mx-auto w-full flex flex-col h-full">
                 {/* Header */}
-                <header className="mb-8">
-                    <div className="flex items-center justify-between mb-4">
+                <header className="flex-none mb-4 md:mb-8">
+                    <div className="flex items-center justify-between mb-2 md:mb-4">
                         <Link href="/home" className="text-violet-400 hover:text-violet-300 text-sm">
                             ← Exit Review
                         </Link>
@@ -180,7 +180,7 @@ export default function ReviewPage() {
                 </header>
 
                 {/* XP Bar */}
-                <div className="mb-8">
+                <div className="flex-none mb-4 md:mb-8">
                     <XPDisplay
                         xp={xpTotal}
                         level={level}
@@ -189,95 +189,111 @@ export default function ReviewPage() {
                     />
                 </div>
 
-                {/* Flash Card */}
-                <Card variant="glass" padding="lg" className="text-center mb-8">
-                    {/* Word */}
-                    <h2 className="text-4xl font-bold text-white mb-6 tracking-wide">
-                        {currentWord.term}
-                    </h2>
+                {/* Flash Card Area - Flex Grow to fill space */}
+                <div className="flex-1 min-h-0 flex flex-col">
+                    <Card variant="glass" padding="none" className="flex flex-col h-full max-h-full">
 
-                    {!showAnswer ? (
-                        <Button
-                            onClick={() => setShowAnswer(true)}
-                            size="lg"
-                            className="min-w-[200px]"
-                        >
-                            Show Answer
-                        </Button>
-                    ) : (
-                        <>
-                            {/* Definition */}
-                            <div className="mb-8 p-6 bg-gray-800/50 rounded-xl space-y-6">
-                                {/* Audio Pronunciation - Auto play when answer shown */}
-                                <div className="flex justify-center mb-4">
-                                    <PronunciationButton
-                                        word={currentWord.term}
-                                        phonetic={currentWord.pronunciation}
-                                        autoPlay={true}
-                                        className="scale-125"
-                                    />
+                        {/* Scrollable Content */}
+                        <div className="flex-1 overflow-y-auto p-6 scrollbar-thin scrollbar-thumb-violet-500/20 scrollbar-track-transparent">
+                            {/* Word */}
+                            <h2 className="text-3xl md:text-4xl font-bold text-white mb-6 tracking-wide text-center sticky top-0 bg-[#12141c]/50 backdrop-blur-sm py-2 z-10">
+                                {currentWord.term}
+                            </h2>
+
+                            {!showAnswer ? (
+                                <div className="flex flex-col items-center justify-center h-[50%]">
+                                    <Button
+                                        onClick={() => setShowAnswer(true)}
+                                        size="lg"
+                                        className="min-w-[200px]"
+                                    >
+                                        Show Answer
+                                    </Button>
                                 </div>
+                            ) : (
+                                <>
+                                    {/* Definition */}
+                                    <div className="space-y-6">
+                                        {/* Audio Pronunciation within flow */}
+                                        <div className="flex justify-center">
+                                            <PronunciationButton
+                                                word={currentWord.term}
+                                                phonetic={currentWord.pronunciation}
+                                                autoPlay={true}
+                                                className="scale-125"
+                                            />
+                                        </div>
 
-                                {currentWord.imageUrl && (
-                                    <div className="rounded-lg overflow-hidden shadow-lg border border-white/10 mx-auto max-w-sm">
-                                        {/* eslint-disable-next-line @next/next/no-img-element */}
-                                        <img
-                                            src={currentWord.imageUrl}
-                                            alt={currentWord.term}
-                                            className="w-full h-48 object-cover"
-                                        />
-                                    </div>
-                                )}
-
-                                <div>
-                                    <h3 className="text-gray-400 text-sm uppercase tracking-wider mb-2 font-semibold">Definition</h3>
-                                    <p className="text-xl text-gray-200 leading-relaxed">
-                                        {currentWord.definition}
-                                    </p>
-                                </div>
-
-                                {(currentWord as any).etymology && (
-                                    <div className="bg-violet-950/40 p-5 rounded-xl border border-violet-500/30 text-left">
-                                        <h3 className="text-violet-300 text-sm uppercase tracking-wider mb-3 font-semibold flex items-center gap-2 border-b border-violet-500/20 pb-2">
-                                            <span>🌱</span> Word Roots & Origin
-                                        </h3>
-                                        <p className="text-gray-200 text-lg mb-4 leading-relaxed font-light">
-                                            {(currentWord as any).etymology}
-                                        </p>
-
-                                        {(currentWord as any).rootWords && (currentWord as any).rootWords.length > 0 && (
-                                            <div>
-                                                <h4 className="text-xs text-violet-400 uppercase font-semibold mb-2">Key Roots:</h4>
-                                                <div className="flex flex-wrap gap-2">
-                                                    {(currentWord as any).rootWords.map((root: string, i: number) => (
-                                                        <span key={i} className="px-3 py-1.5 bg-violet-600/20 text-violet-200 text-sm rounded-lg border border-violet-500/30 shadow-sm">
-                                                            {root}
-                                                        </span>
-                                                    ))}
-                                                </div>
+                                        {currentWord.imageUrl && (
+                                            <div className="rounded-lg overflow-hidden shadow-lg border border-white/10 mx-auto max-w-sm">
+                                                {/* eslint-disable-next-line @next/next/no-img-element */}
+                                                <img
+                                                    src={currentWord.imageUrl}
+                                                    alt={currentWord.term}
+                                                    className="w-full h-40 md:h-48 object-cover"
+                                                />
                                             </div>
                                         )}
-                                    </div>
-                                )}
 
-                                {currentWord.exampleSentence && (
-                                    <div className="border-l-2 border-gray-600 pl-4 text-left">
-                                        <h3 className="text-gray-400 text-xs uppercase tracking-wider mb-1">Example</h3>
-                                        <p className="text-gray-400 italic">
-                                            "{currentWord.exampleSentence}"
-                                        </p>
-                                    </div>
-                                )}
-                            </div>
+                                        <div className="bg-gray-800/50 rounded-xl p-4 md:p-6">
+                                            <div>
+                                                <h3 className="text-gray-400 text-sm uppercase tracking-wider mb-2 font-semibold">Definition</h3>
+                                                <p className="text-lg md:text-xl text-gray-200 leading-relaxed">
+                                                    {currentWord.definition}
+                                                </p>
+                                            </div>
 
-                            {/* Rating Buttons */}
-                            <div className="space-y-3">
-                                <p className="text-sm text-gray-400 mb-4">How well did you know this?</p>
-                                <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                                            {(currentWord as any).etymology && (
+                                                <div className="mt-6 bg-violet-950/40 p-4 rounded-xl border border-violet-500/30 text-left">
+                                                    <h3 className="text-violet-300 text-sm uppercase tracking-wider mb-3 font-semibold flex items-center gap-2 border-b border-violet-500/20 pb-2">
+                                                        <span>🌱</span> Origins
+                                                    </h3>
+                                                    <p className="text-gray-200 text-base md:text-lg mb-4 leading-relaxed font-light">
+                                                        {(currentWord as any).etymology}
+                                                    </p>
+
+                                                    {(currentWord as any).rootWords && (currentWord as any).rootWords.length > 0 && (
+                                                        <div>
+                                                            <h4 className="text-xs text-violet-400 uppercase font-semibold mb-2">Roots:</h4>
+                                                            <div className="flex flex-wrap gap-2">
+                                                                {(currentWord as any).rootWords.map((root: string, i: number) => (
+                                                                    <span key={i} className="px-3 py-1.5 bg-violet-600/20 text-violet-200 text-xs md:text-sm rounded-lg border border-violet-500/30 shadow-sm">
+                                                                        {root}
+                                                                    </span>
+                                                                ))}
+                                                            </div>
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            )}
+
+                                            {currentWord.exampleSentence && (
+                                                <div className="mt-6 border-l-2 border-gray-600 pl-4 text-left">
+                                                    <h3 className="text-gray-400 text-xs uppercase tracking-wider mb-1">Example</h3>
+                                                    <p className="text-gray-400 italic">
+                                                        "{currentWord.exampleSentence}"
+                                                    </p>
+                                                </div>
+                                            )}
+                                        </div>
+
+                                        {/* Spacer for scrolling */}
+                                        <div className="h-4"></div>
+                                    </div>
+                                </>
+                            )}
+                        </div>
+
+                        {/* Footer: Rating Buttons */}
+                        {showAnswer && (
+                            <div className="flex-none p-4 bg-gray-900/40 border-t border-white/5 backdrop-blur-md">
+                                <p className="text-sm text-gray-400 mb-2 text-center">How well did you know this?</p>
+                                <div className="grid grid-cols-4 gap-2">
                                     <RatingButton
                                         label="Again"
                                         subtitle="Forgot"
                                         color="red"
+                                        compact
                                         onClick={() => handleRating('again')}
                                         disabled={isSubmitting}
                                     />
@@ -285,6 +301,7 @@ export default function ReviewPage() {
                                         label="Hard"
                                         subtitle="Difficult"
                                         color="orange"
+                                        compact
                                         onClick={() => handleRating('hard')}
                                         disabled={isSubmitting}
                                     />
@@ -292,6 +309,7 @@ export default function ReviewPage() {
                                         label="Good"
                                         subtitle="Got it"
                                         color="emerald"
+                                        compact
                                         onClick={() => handleRating('good')}
                                         disabled={isSubmitting}
                                     />
@@ -299,14 +317,15 @@ export default function ReviewPage() {
                                         label="Easy"
                                         subtitle="Too easy"
                                         color="blue"
+                                        compact
                                         onClick={() => handleRating('easy')}
                                         disabled={isSubmitting}
                                     />
                                 </div>
                             </div>
-                        </>
-                    )}
-                </Card>
+                        )}
+                    </Card>
+                </div>
             </div>
         </main>
     );
@@ -317,13 +336,15 @@ function RatingButton({
     subtitle,
     color,
     onClick,
-    disabled
+    disabled,
+    compact
 }: {
     label: string;
     subtitle: string;
     color: 'red' | 'orange' | 'emerald' | 'blue';
     onClick: () => void;
     disabled?: boolean;
+    compact?: boolean;
 }) {
     const colorStyles = {
         red: 'bg-red-500/20 border-red-500/50 hover:bg-red-500/30 text-red-300',
@@ -337,13 +358,14 @@ function RatingButton({
             onClick={onClick}
             disabled={disabled}
             className={`
-        p-4 rounded-xl border-2 transition-all duration-200
+        relative overflow-hidden rounded-xl border-2 transition-all duration-200
+        ${compact ? 'p-2 py-3' : 'p-4'}
         ${colorStyles[color]}
-        ${disabled ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer hover:scale-105'}
+        ${disabled ? 'opacity-50 cursor-not-allowed' : 'cursor-pointer hover:scale-105 active:scale-95'}
       `}
         >
-            <div className="font-bold text-lg">{label}</div>
-            <div className="text-xs opacity-70">{subtitle}</div>
+            <div className={`font-bold ${compact ? 'text-sm' : 'text-lg'}`}>{label}</div>
+            <div className={`text-xs opacity-70 ${compact ? 'text-[10px]' : ''}`}>{subtitle}</div>
         </button>
     );
 }

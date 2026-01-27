@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
-import { getGuestProgress, clearGuestProgress, hasGuestProgress } from '@/lib/guestProgress';
+import { hasGuestProgress } from '@/lib/guestProgress';
 import { syncGuestProgress } from '@/app/actions/guest';
 
 /**
@@ -21,21 +21,35 @@ export default function GuestProgressSync() {
         if (shouldSync && hasGuestProgress() && !syncing) {
             setSyncing(true);
 
-            const guestData = getGuestProgress();
-            if (!guestData) {
-                setSyncing(false);
-                return;
-            }
+            // Import dynamically to get the full state
+            import('@/lib/guestProgress').then(async ({ getGuestState, clearGuestProgress }) => {
+                const guestState = getGuestState();
 
-            syncGuestProgress({
-                sessionNumber: guestData.sessionNumber,
-                xpEarned: guestData.xpEarned,
-                wordsCompleted: guestData.wordsCompleted,
-                completedAt: guestData.completedAt,
-                correctCount: guestData.correctCount,
-                totalCount: guestData.totalCount
-            }).then((result) => {
-                if (result.success) {
+                if (!guestState || !guestState.sessions) {
+                    setSyncing(false);
+                    return;
+                }
+
+                try {
+                    // Sync each session sequentially
+                    const sessions = Object.values(guestState.sessions);
+
+                    for (const session of sessions) {
+                        const result = await syncGuestProgress({
+                            sessionNumber: session.sessionNumber,
+                            xpEarned: session.xpEarned,
+                            wordsCompleted: session.wordsCompleted,
+                            completedAt: session.completedAt,
+                            correctCount: session.correctCount,
+                            totalCount: session.totalCount
+                        });
+
+                        if (!result.success) {
+                            console.error(`Failed to sync session ${session.sessionNumber}:`, result.message);
+                            // We continue trying to sync others even if one fails
+                        }
+                    }
+
                     clearGuestProgress();
                     setShowSuccess(true);
 
@@ -44,13 +58,11 @@ export default function GuestProgressSync() {
                         router.replace('/home');
                         router.refresh();
                     }, 2000);
-                } else {
-                    console.error('Failed to sync guest progress:', result.message);
+
+                } catch (error) {
+                    console.error('Error syncing guest progress:', error);
                     setSyncing(false);
                 }
-            }).catch((error) => {
-                console.error('Error syncing guest progress:', error);
-                setSyncing(false);
             });
         }
     }, [searchParams, syncing, router]);

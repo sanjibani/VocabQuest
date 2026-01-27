@@ -11,8 +11,8 @@ import Card from '@/components/ui/Card';
 import ProgressBar from '@/components/ui/ProgressBar';
 import QuizPrompt from '@/components/game/QuizPrompt';
 import XPDisplay from '@/components/game/XPDisplay';
-import GuestSignupPrompt from '@/components/game/GuestSignupPrompt';
-import { saveGuestProgress, type GuestWordState } from '@/lib/guestProgress';
+import GuestCompletionHook from '@/components/game/GuestCompletionHook';
+import { saveGuestProgress, getGuestState, type GuestWordState } from '@/lib/guestProgress';
 import { type QuestPrompt, type DbSession } from '@/lib/types';
 
 interface QuestPageProps {
@@ -61,11 +61,7 @@ export default function QuestPage({ params }: QuestPageProps) {
                     setXpTotal(stats.xpTotal);
                     setIsGuest(false);
                 } else {
-                    // Guest mode - only allowed for session 1
-                    if (sessionNumber !== 1) {
-                        router.push('/login?next=/quest/' + sessionNumber);
-                        return;
-                    }
+                    // Guest mode - allowed for all sessions now
                     setIsGuest(true);
                     setXpTotal(0);
                 }
@@ -125,17 +121,20 @@ export default function QuestPage({ params }: QuestPageProps) {
         setIsComplete(true);
 
         if (isGuest) {
-            // Guest mode: Save to localStorage
-            const totalXpEarned = guestWordStates.reduce((sum, w) => sum + (w.isCorrect ? 10 : 2), 0) + estimatedBonusXP;
+            // Guest mode: Save to localStorage (New Schema)
+            const sessionXpEarned = guestWordStates.reduce((sum, w) => sum + (w.isCorrect ? 10 : 2), 0) + estimatedBonusXP;
 
             saveGuestProgress({
                 sessionNumber,
-                xpEarned: totalXpEarned,
+                xpEarned: sessionXpEarned,
                 wordsCompleted: guestWordStates,
                 completedAt: new Date().toISOString(),
                 correctCount,
                 totalCount: prompts.length
             });
+
+            // Set for UI display in hook
+            setXpGained(sessionXpEarned);
         } else {
             // Authenticated: Wait for syncs and complete on server
             await Promise.all(pendingSyncs);
@@ -190,13 +189,20 @@ export default function QuestPage({ params }: QuestPageProps) {
     if (isComplete) {
         const accuracy = Math.round((correctCount / prompts.length) * 100);
 
-        // Guest completion: Show signup prompt
+        // Guest completion: Show Hook or Signup Prompt
         if (isGuest) {
+            const guestState = getGuestState();
+
             return (
-                <GuestSignupPrompt
+                <GuestCompletionHook
+                    sessionNumber={sessionNumber}
+                    xpEarned={xpGained} // Use the total session earnings
+                    totalXP={guestState?.totalXP || xpTotal}
                     wordsLearned={prompts.length}
-                    xpEarned={xpTotal}
-                    accuracy={accuracy}
+                    onContinue={() => {
+                        // Navigate to next session
+                        router.push(`/quest/${sessionNumber + 1}`);
+                    }}
                 />
             );
         }

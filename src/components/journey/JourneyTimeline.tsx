@@ -18,18 +18,42 @@ interface JourneyTimelineProps {
 }
 
 export default function JourneyTimeline({
-    sessions,
-    currentSessionNumber,
+    sessions: initialSessions,
+    currentSessionNumber: initialCurrentSession,
     totalXP
 }: JourneyTimelineProps) {
     const router = useRouter();
 
+    // Guest State Handling
+    // We defer to client-side state for guests to show unlocked sessions immediately
+    const [clientMaxSession, setClientMaxSession] = React.useState<number | null>(null);
+    const [clientTotalXP, setClientTotalXP] = React.useState<number | null>(null);
+
+    React.useEffect(() => {
+        // Import dynamically to avoid SSR issues with localStorage
+        import('@/lib/guestProgress').then(({ getGuestState }) => {
+            const guestState = getGuestState();
+            if (guestState) {
+                setClientMaxSession(guestState.maxCompletedSession);
+                setClientTotalXP(guestState.totalXP);
+            }
+        });
+    }, []);
+
+    const effectiveCurrentSession = clientMaxSession
+        ? clientMaxSession + 1
+        : initialCurrentSession;
+
+    const effectiveTotalXP = clientTotalXP ?? totalXP;
+
     const handleSessionClick = (sessionNumber: number) => {
+        // Prevent clicking locked sessions
+        if (sessionNumber > effectiveCurrentSession) return;
         router.push(`/quest/${sessionNumber}`);
     };
 
     // Calculate mastery progress (total XP / estimated XP needed)
-    const masteryProgress = Math.min(100, Math.floor((totalXP / 10000) * 100));
+    const masteryProgress = Math.min(100, Math.floor((effectiveTotalXP / 10000) * 100));
 
     return (
         <div className="flex flex-col items-center py-8 px-4">
@@ -52,7 +76,7 @@ export default function JourneyTimeline({
                     className="text-4xl font-bold mb-3"
                     style={{ color: 'var(--text-primary)' }}
                 >
-                    {totalXP.toLocaleString()} <span className="text-lg font-normal" style={{ color: 'var(--text-secondary)' }}>XP TOTAL</span>
+                    {effectiveTotalXP.toLocaleString()} <span className="text-lg font-normal" style={{ color: 'var(--text-secondary)' }}>XP TOTAL</span>
                 </div>
 
                 {/* Progress Bar */}
@@ -72,10 +96,11 @@ export default function JourneyTimeline({
 
             {/* Session Timeline */}
             <div className="flex flex-col items-center space-y-0">
-                {sessions.map((session, index) => {
-                    const isCurrent = session.session_number === currentSessionNumber;
-                    const isCompleted = session.is_completed || session.session_number < currentSessionNumber;
-                    const isLocked = session.session_number > currentSessionNumber;
+                {initialSessions.map((session, index) => {
+                    const isCurrent = session.session_number === effectiveCurrentSession;
+                    // session is completed if explicitly marked OR if it's less than current pointer
+                    const isCompleted = session.is_completed || session.session_number < effectiveCurrentSession;
+                    const isLocked = session.session_number > effectiveCurrentSession;
                     const progress = session.progress || 0;
 
                     return (

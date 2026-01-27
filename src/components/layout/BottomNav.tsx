@@ -25,7 +25,7 @@ export default function BottomNav() {
     // For now, we show it everywhere except strictly excluded paths?
     // Let's assume we want it on app pages.
     // If pathname is '/' landing, maybe we hide it?
-    if (pathname === '/' || pathname.startsWith('/auth')) return null;
+    if (pathname === '/' || pathname.startsWith('/auth') || pathname.startsWith('/review') || pathname.startsWith('/quest')) return null;
 
     return (
         <div className="fixed bottom-0 left-0 right-0 z-50 px-4 pb-4 pt-2">
