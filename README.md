@@ -2,6 +2,18 @@
 
 A gamified vocabulary learning app with daily streaks, character evolution, and spaced repetition. Built with Next.js and Supabase.
 
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="public/screenshots/home-desktop.png" alt="Home - Desktop" width="800" />
+</div>
+
+<div align="center" style="display: flex; gap: 10px; justify-content: center; margin-top: 10px;">
+  <img src="public/screenshots/home-mobile.png" alt="Home - Mobile" width="200" />
+  <img src="public/screenshots/quest-mobile.png" alt="Quest - Mobile" width="200" />
+</div>
+
 ## ✨ Features
 
 - 🎮 **Gamified Quests**: Learn vocabulary through interactive sessions with XP and leveling
